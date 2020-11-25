@@ -3,7 +3,7 @@ require_relative '../node_modules/@react-native-community/cli-platform-ios/nativ
 
 platform :ios, '10.0'
 
-target 'rn_template_v2' do
+target 'Spacestock' do
   rn_maps_path = '../node_modules/react-native-maps'
   pod 'react-native-google-maps', :path => rn_maps_path
   pod 'GoogleMaps'
@@ -13,7 +13,7 @@ target 'rn_template_v2' do
 
   use_react_native!(:path => config["reactNativePath"])
 
-  target 'rn_template_v2Tests' do
+  target 'SpacestockTests' do
     inherit! :complete
     # Pods for testing
   end
@@ -28,10 +28,10 @@ target 'rn_template_v2' do
   end
 end
 
-target 'rn_template_v2-tvOS' do
-  # Pods for rn_template_v2-tvOS
+target 'Spacestock-tvOS' do
+  # Pods for Spacestock-tvOS
 
-  target 'rn_template_v2-tvOSTests' do
+  target 'Spacestock-tvOSTests' do
     inherit! :search_paths
     # Pods for testing
   end

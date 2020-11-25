@@ -129,7 +129,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.rn_template_v2"
+        applicationId "com.spacestock.mobile"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
