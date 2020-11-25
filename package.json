@@ -25,11 +25,8 @@
     "native-base": "2.13.12",
     "react": "16.13.1",
     "react-native": "0.63.0",
-    "react-native-camera": "3.31.0",
     "react-native-gesture-handler": "1.6.1",
     "react-native-global-props": "1.1.5",
-    "react-native-image-crop-picker": "0.32.2",
-    "react-native-maps": "0.27.1",
     "react-native-reanimated": "1.9.0",
     "react-native-safe-area-context": "3.1.1",
     "react-native-screens": "2.9.0",
@@ -44,13 +41,13 @@
     "redux-thunk": "2.3.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.10.4",
-    "@babel/runtime": "^7.10.4",
-    "@react-native-community/eslint-config": "^2.0.0",
-    "babel-jest": "^26.1.0",
-    "eslint": "^7.4.0",
-    "jest": "^26.1.0",
-    "metro-react-native-babel-preset": "^0.60.0",
+    "@babel/core": "7.10.4",
+    "@babel/runtime": "7.10.4",
+    "@react-native-community/eslint-config": "2.0.0",
+    "babel-jest": "26.1.0",
+    "eslint": "7.4.0",
+    "jest": "26.1.0",
+    "metro-react-native-babel-preset": "0.60.0",
     "react-test-renderer": "16.13.1"
   },
   "jest": {
