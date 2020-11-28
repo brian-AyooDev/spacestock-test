@@ -4,20 +4,22 @@ import { createDrawerNavigator } from 'react-navigation-drawer';
 import { createBottomTabNavigator } from 'react-navigation-tabs';
 
 // ***** Import Pages ***** //
-// ** Front Pages
 import Splash from 'App/Pages/Splash';
 import Home from 'App/Pages/Home';
+import Lists from 'App/Pages/Lists';
+import Details from 'App/Pages/Details';
 import Counter from 'App/Pages/Counter';
 // ***** /Import Pages ***** //
 
 const MainStack = createStackNavigator({
   Home: Home,
-  Counter: Counter
+  Lists: Lists,
+  Details: Details,
 }, {
   headerMode: 'none',
   defaultNavigationOptions: {
     headerShown: false,
-    ...TransitionPresets.FadeFromBottomAndroid
+    ...TransitionPresets.SlideFromRightIOS
   }
 });
 
