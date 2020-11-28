@@ -15,5 +15,35 @@ export default {
     justifyContent: 'center',
     alignItems: 'center',
     backgroundColor: Colors.white
-  }
+  },
+  boxShadow2: {
+    shadowColor: Colors.black,
+    shadowOffset: {
+      width: 0,
+      height: 1,
+    },
+    shadowOpacity: 0.20,
+    shadowRadius: 1.41,
+
+    elevation: 2,
+  },
+  boxShadow5: {
+    shadowColor: Colors.black,
+    shadowOffset: {
+      width: 0,
+      height: 2,
+    },
+    shadowOpacity: 0.25,
+    shadowRadius: 3.84,
+
+    elevation: 5,
+  },
+  noShadow: {
+    shadowOffset: {
+      height: 0,
+      width: 0
+    },
+    shadowOpacity: 0,
+    elevation: 0
+  },
 }
