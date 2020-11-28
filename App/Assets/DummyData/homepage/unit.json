@@ -1,0 +1,748 @@
+{
+  "paging": {
+    "total_data": 4,
+    "total_page": 1
+  },
+  "data": [
+    {
+      "id": "5eb053f1e6c91bd8b8141961",
+      "create_at": 1588614129290957355,
+      "create_by_uid": "anita.karyati@spacestock.com",
+      "last_update_at": 1589964682408396487,
+      "last_update_by_uid": "anita.karyati@spacestock.com",
+      "status": 0,
+      "inactive_reason": "",
+      "published_state": "Published",
+      "published_by": "",
+      "published_at": 0,
+      "office_type": "Coworking Office",
+      "category": "Office",
+      "unit_type": "Lease",
+      "unit_number": "808",
+      "zone": "Low",
+      "level": "8",
+      "unit_size": 15.2,
+      "internal_agent_email": "",
+      "internal_referral_email": "",
+      "listing_type": "",
+      "certificate": "",
+      "condition": "Full Furnished",
+      "rent_fee_type": "",
+      "min_lease_term": 0,
+      "price": {
+        "base_rent": 17000000,
+        "sell_price": 0,
+        "service_charge": 0,
+        "payment_term": "",
+        "web_price": 2833333.3333333335,
+        "max_occupant": 6
+      },
+      "fee": {
+        "full_rent": 10,
+        "full_sell": 0
+      },
+      "commision": {
+        "rent": 0,
+        "sell": 0
+      },
+      "pic": {
+        "type": "",
+        "uid": "5eb0522d76b901889da6f71c",
+        "name": " Adi Tri Mulia",
+        "phone": "",
+        "fee": 0
+      },
+      "score": 17.5,
+      "images": {
+        "images_interior": [
+          {
+            "url": "office/q3dprgclvxjadykmxzpj",
+            "alternate_text": "Work Space",
+            "priority": 1
+          },
+          {
+            "url": "office/e10ks8mm8azwq93g5ux1",
+            "alternate_text": "Work Space",
+            "priority": 2
+          },
+          {
+            "url": "office/czjj1xb9xb6oiwctilyr",
+            "alternate_text": "Work Space",
+            "priority": 3
+          },
+          {
+            "url": "office/xn8xlksakl5w0cp2rmst",
+            "alternate_text": "General",
+            "priority": 4
+          },
+          {
+            "url": "office/telpoi059wpjrtqcmjed",
+            "alternate_text": "Work Space",
+            "priority": 5
+          },
+          {
+            "url": "office/gawdij4srurgrkkfz5o1",
+            "alternate_text": "Meeting \u0026 Conference Room",
+            "priority": 6
+          },
+          {
+            "url": "office/tbpih4tacnuu2nqxfnkj",
+            "alternate_text": "Meeting \u0026 Conference Room",
+            "priority": 6
+          }
+        ],
+        "images_floorplan": null,
+        "images_unit": null
+      },
+      "coworking": {
+        "id": "5eb39aedca6e38bf5ad13547",
+        "name": "Uptown",
+        "facilities": [
+          "Meeting Room",
+          "Receptionist",
+          "Printing Services",
+          "Pantry Service",
+          "Free Flow Coffee",
+          "High Speed Internet",
+          "Locker Service",
+          "Cleaning Services",
+          "Event Space"
+        ]
+      },
+      "complex": {
+        "id": "5d36aa58483ac030cc7db79b",
+        "name": "Plaza Mutiara",
+        "address": {
+          "number": "",
+          "block": "",
+          "sector": "",
+          "street": "Jl. Dr.Ide Anak Agung Gde Agung, Kuningan Tim., Setia Budi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12950",
+          "subdistrict": "",
+          "district": "Setia Budi",
+          "city": "Jakarta Selatan",
+          "regency": "",
+          "province": "Jakarta",
+          "country": "Indonesia",
+          "zip_code": "12950"
+        }
+      },
+      "tower": {
+        "id": "5d36ac833d9e3cdf0fe663e9",
+        "name": "Plaza Mutiara",
+        "areas": [
+          "Jakarta Selatan",
+          "Setia Budi",
+          "Mega Kuningan",
+          "Kuningan",
+          "Kuningan Timur"
+        ],
+        "office_hours": {
+          "available_24h": false,
+          "weekday": {
+            "opening_hour": "08:00:00",
+            "closing_hour": "18:00:00",
+            "is_open": true
+          },
+          "saturday": {
+            "opening_hour": "08:00:00",
+            "closing_hour": "13:00:00",
+            "is_open": true
+          },
+          "sunday": {
+            "opening_hour": "",
+            "closing_hour": "",
+            "is_open": false
+          }
+        },
+        "exterior_images": [
+          {
+            "url": "https://s3.amazonaws.com/public.urbanindo.com/test/office-leasing/building-photos/76_plaza-mutiara-plaza-mutiara_20160915094042_93040.jpg",
+            "alternate_text": "Sewa Kantor Gedung Plaza Mutiara Jakarta Selatan Setia Budi Jakarta Exterior",
+            "priority": 1
+          },
+          {
+            "url": "https://s3.amazonaws.com/public.urbanindo.com/test/office-leasing/building-photos/76_plaza-mutiara-plaza-mutiara_20160915094042_21086.jpg",
+            "alternate_text": "Sewa Kantor Gedung Plaza Mutiara Jakarta Selatan Setia Budi Jakarta Exterior",
+            "priority": 2
+          }
+        ],
+        "average_floor_plate": 705,
+        "location": {
+          "lat": -6.227640722045071,
+          "lon": 106.82736920552247
+        },
+        "description": {
+          "en": "\u003cp\u003e\u003cstrong\u003ePlaza Mutiara\u003c/strong\u003e is a \u003ca href=\"/building/grade\"\u003eGrade B\u003c/a\u003e office building located at the heart of Jakarta's Central Business District. With a total building size of 15.796 sqm, the office building in Jl. Dr.Ide Anak Agung Gde Agung, Kuningan Tim., Setia Budi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12950 is available for lease only.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003ePlaza Mutiara\u003c/strong\u003e is a 18 storeys office building that is of walking distance to Kuningan City, Mal Ambassador and ITC Kuningan. \u003cstrong\u003ePlaza Mutiara\u003c/strong\u003e is equipped with 5 lifts, and a dedicated service lift and executive lift.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003ePlaza Mutiara\u003c/strong\u003e has 400 parking lots to serve the office tenants and guests and  Security, ATM, Foodcourt, Restaurant and Bank as facilities in the office complex.\u003c/p\u003e",
+          "id": "\u003cp\u003e\u003cstrong\u003ePlaza Mutiara\u003c/strong\u003e adalah  bangunan kantor tipe \u003ca href=\"/building/grade\"\u003eGrade B\u003c/a\u003e yang terletak di Central Business District (Pusat Kawasan Bisnis), jantung kota Jakarta. Dengan total luas bangunan 15.796 m2, bangunan kantor beralamat di Jl. Dr.Ide Anak Agung Gde Agung, Kuningan Tim., Setia Budi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12950 tersedia untuk sewa.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003ePlaza Mutiara\u003c/strong\u003e adalah bangunan 18 lantai jarak dengan berjalan kaki Kuningan City, Mal Ambassador dan ITC Kuningan. \u003cstrong\u003ePlaza Mutiara\u003c/strong\u003e yang dilengkapi dengan 5 lift, dan \u003ci\u003ededicated service lift\u003c/i\u003e dan \u003ci\u003eexecutive lift\u003c/i\u003e.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003ePlaza Mutiara\u003c/strong\u003e memiliki 400 tempat parkir yang dapat digunakan oleh tenan dan tamu serta Security, ATM, Foodcourt, Restaurant dan Bank sebagai fasilitas di kawasan kantor.\u003c/p\u003e"
+        }
+      },
+      "rent_size_availability": {},
+      "view": {
+        "Window View": true
+      },
+      "facing": {},
+      "other_rooms": {}
+    },
+    {
+      "id": "5eb19d2efd123ef2cebcab2e",
+      "create_at": 1588698414868077356,
+      "create_by_uid": "anita.karyati@spacestock.com",
+      "last_update_at": 1589950184069987546,
+      "last_update_by_uid": "anita.karyati@spacestock.com",
+      "status": 0,
+      "inactive_reason": "",
+      "published_state": "Published",
+      "published_by": "",
+      "published_at": 0,
+      "office_type": "Coworking Office",
+      "category": "Office",
+      "unit_type": "Lease",
+      "unit_number": "125",
+      "zone": "Low",
+      "level": "12",
+      "unit_size": 10,
+      "internal_agent_email": "",
+      "internal_referral_email": "",
+      "listing_type": "",
+      "certificate": "",
+      "condition": "Full Furnished",
+      "rent_fee_type": "",
+      "min_lease_term": 0,
+      "price": {
+        "base_rent": 11385000,
+        "sell_price": 0,
+        "service_charge": 0,
+        "payment_term": "",
+        "web_price": 3795000,
+        "max_occupant": 3
+      },
+      "fee": {
+        "full_rent": 10,
+        "full_sell": 0
+      },
+      "commision": {
+        "rent": 0,
+        "sell": 0
+      },
+      "pic": {
+        "type": "",
+        "uid": "5eb1979c80adf62befa122be",
+        "name": " Aulia",
+        "phone": "",
+        "fee": 0
+      },
+      "score": 15,
+      "images": {
+        "images_interior": [
+          {
+            "url": "office/oczudc8umrvqcszpcfkf",
+            "alternate_text": "Work Space",
+            "priority": 2
+          },
+          {
+            "url": "office/c5wifprjykcn5l21x2xc",
+            "alternate_text": "Work Space",
+            "priority": 3
+          },
+          {
+            "url": "office/ygkzwneqwinyhr7gib4v",
+            "alternate_text": "Work Space",
+            "priority": 4
+          },
+          {
+            "url": "office/mlovfzdyqw0jgijnx4z6",
+            "alternate_text": "Work Space",
+            "priority": 1
+          },
+          {
+            "url": "office/vwfore2dbi6k82fvrjbz",
+            "alternate_text": "Work Space",
+            "priority": 5
+          },
+          {
+            "url": "office/d36wq0zm2vyqqs1hnao3",
+            "alternate_text": "Work Space",
+            "priority": 6
+          }
+        ],
+        "images_floorplan": null,
+        "images_unit": null
+      },
+      "coworking": {
+        "id": "5eb39e73ca6e38bf5ad1354e",
+        "name": "Servio",
+        "facilities": [
+          "Meeting Room",
+          "Receptionist",
+          "Printing Services",
+          "Pantry Service",
+          "Free Flow Coffee",
+          "High Speed Internet",
+          "Locker Service",
+          "Cleaning Services",
+          "Event Space"
+        ]
+      },
+      "complex": {
+        "id": "5d36aa95483ac030cc7db887",
+        "name": "Manhattan Square",
+        "address": {
+          "number": "",
+          "block": "",
+          "sector": "",
+          "street": "Jl. T.B. Simatupang Kav. 1S",
+          "subdistrict": "",
+          "district": "Pasar Minggu",
+          "city": "Jakarta Selatan",
+          "regency": "",
+          "province": "Jakarta",
+          "country": "Indonesia",
+          "zip_code": "12540"
+        }
+      },
+      "tower": {
+        "id": "5d36ae1c3d9e3cdf0fe664ff",
+        "name": "Manhattan Square Tower 1",
+        "areas": [
+          "Jakarta Selatan",
+          "Pasar Minggu",
+          "Tb Simatupang",
+          "Jati Padang"
+        ],
+        "office_hours": {
+          "available_24h": false,
+          "weekday": {
+            "opening_hour": "07:00:00",
+            "closing_hour": "18:00:00",
+            "is_open": true
+          },
+          "saturday": {
+            "opening_hour": "07:00:00",
+            "closing_hour": "13:00:00",
+            "is_open": true
+          },
+          "sunday": {
+            "opening_hour": "",
+            "closing_hour": "",
+            "is_open": false
+          }
+        },
+        "exterior_images": [
+          {
+            "url": "building/kyarzcroiip8blmtsg4j",
+            "alternate_text": "Complex Exterior",
+            "priority": 1
+          },
+          {
+            "url": "https://s3.amazonaws.com/public.urbanindo.com/test/office-leasing/building-photos/215_manhattan-square-manhattan-square-tower-1_20160914044141_75869.JPG",
+            "alternate_text": "Sewa Kantor Gedung Manhattan Square Tower 1 Jakarta Selatan Pasar Minggu Jakarta Exterior",
+            "priority": 2
+          },
+          {
+            "url": "https://s3.amazonaws.com/public.urbanindo.com/test/office-leasing/building-photos/215_manhattan-square-manhattan-square-tower-1_20160914044141_81290.JPG",
+            "alternate_text": "Sewa Kantor Gedung Manhattan Square Tower 1 Jakarta Selatan Pasar Minggu Jakarta Exterior",
+            "priority": 3
+          },
+          {
+            "url": "https://s3.amazonaws.com/public.urbanindo.com/test/office-leasing/building-photos/215_manhattan-square-manhattan-square-tower-1_20160914044140_54220.JPG",
+            "alternate_text": "Sewa Kantor Gedung Manhattan Square Tower 1 Jakarta Selatan Pasar Minggu Jakarta Exterior",
+            "priority": 4
+          },
+          {
+            "url": "https://s3.amazonaws.com/public.urbanindo.com/test/office-leasing/building-photos/215_manhattan-square-manhattan-square-tower-1_20160914044140_74554.JPG",
+            "alternate_text": "Sewa Kantor Gedung Manhattan Square Tower 1 Jakarta Selatan Pasar Minggu Jakarta Exterior",
+            "priority": 5
+          },
+          {
+            "url": "https://s3.amazonaws.com/public.urbanindo.com/test/office-leasing/building-photos/215_manhattan-square-manhattan-square-tower-1_20160914044140_41658.JPG",
+            "alternate_text": "Sewa Kantor Gedung Manhattan Square Tower 1 Jakarta Selatan Pasar Minggu Jakarta Exterior",
+            "priority": 6
+          },
+          {
+            "url": "https://s3.amazonaws.com/public.urbanindo.com/test/office-leasing/building-photos/215_manhattan-square-manhattan-square-tower-1_20160914044139_86578.JPG",
+            "alternate_text": "Sewa Kantor Gedung Manhattan Square Tower 1 Jakarta Selatan Pasar Minggu Jakarta Exterior",
+            "priority": 7
+          },
+          {
+            "url": "https://s3.amazonaws.com/public.urbanindo.com/test/office-leasing/building-photos/215_manhattan-square-manhattan-square-tower-1_20160914044139_70087.JPG",
+            "alternate_text": "Sewa Kantor Gedung Manhattan Square Tower 1 Jakarta Selatan Pasar Minggu Jakarta Exterior",
+            "priority": 8
+          }
+        ],
+        "average_floor_plate": 1406,
+        "location": {
+          "lat": -6.290705,
+          "lon": 106.810693
+        },
+        "description": {
+          "en": "\u003cp\u003e\u003cstrong\u003eManhattan Square Tower 1\u003c/strong\u003e is a new \u003ca href=\"/building/grade\"\u003eGrade A\u003c/a\u003e office building located at CBD T.B. Simatupang. \u003cstrong\u003eManhattan Square Tower 1\u003c/strong\u003e is one of two office buildings in Manhattan Square,the other being Manhattan Square Tower 2. With a total building size of 40.000 sqm, the office building in Jl. T.B. Simatupang Kav. 1S is available for lease only.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eManhattan Square Tower 1\u003c/strong\u003e is a tall building of 31 storeys that is closely located to Cilandak Town Square, Mal Cilandak and Pejaten Village. \u003cstrong\u003eManhattan Square Tower 1\u003c/strong\u003e is equipped with 13 lifts that is split into 2  zones, namely Low Zone and High Zone, and a dedicated service lift.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eManhattan Square Tower 1\u003c/strong\u003e has 699 parking lots to serve the office tenants and guests and  Bathroom, Wifi, Security, ATM, Restaurant and Minimarket as facilities in the office complex.\u003c/p\u003e",
+          "id": "\u003cp\u003e\u003cstrong\u003eManhattan Square Tower 1\u003c/strong\u003e adalah  bangunan kantor baru tipe \u003ca href=\"/building/grade\"\u003eGrade A\u003c/a\u003e yang terletak di CBD T.B. Simatupang. \u003cstrong\u003eManhattan Square Tower 1\u003c/strong\u003e is one of two office buildings in Manhattan Square,the other being Manhattan Square Tower 2. Dengan total luas bangunan 40.000 m2, bangunan kantor beralamat di Jl. T.B. Simatupang Kav. 1S tersedia untuk sewa.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eManhattan Square Tower 1\u003c/strong\u003e adalah bangunan tinggi dengan 31 lantai yang berdekatan dengan Cilandak Town Square, Mal Cilandak dan Pejaten Village. \u003cstrong\u003eManhattan Square Tower 1\u003c/strong\u003e yang dilengkapi dengan 13 lift yang dibagi menjadi 2 zona, dikenal dengan Low Zone dan High Zone, dan sebuah \u003ci\u003ededicated service lift\u003c/i\u003e .\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eManhattan Square Tower 1\u003c/strong\u003e memiliki 699 tempat parkir yang dapat digunakan oleh tenan dan tamu serta Bathroom, Wifi, Security, ATM, Restaurant dan Minimarket sebagai fasilitas di kawasan kantor.\u003c/p\u003e"
+        }
+      },
+      "rent_size_availability": {},
+      "view": {
+        "Window View": true
+      },
+      "facing": {},
+      "other_rooms": {}
+    },
+    {
+      "id": "5eb89678f95c49a3e9dbc686",
+      "create_at": 1589155448344394511,
+      "create_by_uid": "anita.karyati@spacestock.com",
+      "last_update_at": 1589916322012727936,
+      "last_update_by_uid": "anita.karyati@spacestock.com",
+      "status": 0,
+      "inactive_reason": "",
+      "published_state": "Published",
+      "published_by": "",
+      "published_at": 0,
+      "office_type": "Coworking Office",
+      "category": "Office",
+      "unit_type": "Lease",
+      "unit_number": "Suite 10",
+      "zone": "High",
+      "level": "30",
+      "unit_size": 10,
+      "internal_agent_email": "",
+      "internal_referral_email": "",
+      "listing_type": "",
+      "certificate": "",
+      "condition": "Full Furnished",
+      "rent_fee_type": "",
+      "min_lease_term": 0,
+      "price": {
+        "base_rent": 15950000,
+        "sell_price": 0,
+        "service_charge": 0,
+        "payment_term": "",
+        "web_price": 2658333.3333333335,
+        "max_occupant": 6
+      },
+      "fee": {
+        "full_rent": 10,
+        "full_sell": 0
+      },
+      "commision": {
+        "rent": 0,
+        "sell": 0
+      },
+      "pic": {
+        "type": "",
+        "uid": "5eb8345843cef899a7c1fee3",
+        "name": " Astrid",
+        "phone": "",
+        "fee": 0
+      },
+      "score": 12.5,
+      "images": {
+        "images_interior": [
+          {
+            "url": "office/sidnka5cfgpdwf3awlhf",
+            "alternate_text": "Work Space",
+            "priority": 1
+          },
+          {
+            "url": "office/todtf4m9jiqzbkguorwd",
+            "alternate_text": "Work Space",
+            "priority": 2
+          },
+          {
+            "url": "office/n2rlgzuzc2o716ynx0rv",
+            "alternate_text": "Pantry",
+            "priority": 3
+          },
+          {
+            "url": "office/qcfqoppqt47ue9zffdmi",
+            "alternate_text": "Meeting \u0026 Conference Room",
+            "priority": 4
+          },
+          {
+            "url": "office/oznvb0dfua6g6twcwhtc",
+            "alternate_text": "Work Space",
+            "priority": 5
+          }
+        ],
+        "images_floorplan": null,
+        "images_unit": null
+      },
+      "coworking": {
+        "id": "5eb39f5eca6e38bf5ad13557",
+        "name": "V Office",
+        "facilities": [
+          "Meeting Room",
+          "Receptionist",
+          "Printing Services",
+          "Pantry Service",
+          "Free Flow Coffee",
+          "High Speed Internet",
+          "Cleaning Services"
+        ]
+      },
+      "complex": {
+        "id": "5d36aad0483ac030cc7db967",
+        "name": "Menara Kuningan",
+        "address": {
+          "number": "",
+          "block": "",
+          "sector": "",
+          "street": "Jl. HR. Rasuna Said No. Kav 5",
+          "subdistrict": "",
+          "district": "Setiabudi",
+          "city": "Jakarta Selatan",
+          "regency": "",
+          "province": "Jakarta",
+          "country": "Indonesia",
+          "zip_code": "12940"
+        }
+      },
+      "tower": {
+        "id": "5d36af113d9e3cdf0fe665a3",
+        "name": "Menara Kuningan",
+        "areas": [
+          "Jakarta Selatan",
+          "Setiabudi",
+          "Kuningan",
+          "Setia Budi",
+          "Karet Kuningan"
+        ],
+        "office_hours": {
+          "available_24h": false,
+          "weekday": {
+            "opening_hour": "",
+            "closing_hour": "",
+            "is_open": true
+          },
+          "saturday": {
+            "opening_hour": "",
+            "closing_hour": "",
+            "is_open": true
+          },
+          "sunday": {
+            "opening_hour": "",
+            "closing_hour": "",
+            "is_open": false
+          }
+        },
+        "exterior_images": [
+          {
+            "url": "office/Menara_Kuningan_Exterior_Fix_1.jpg",
+            "alternate_text": "Fix_1.jpg",
+            "priority": 0
+          },
+          {
+            "url": "office/Menara_Kuningan_Exterior_Fix_2.jpg",
+            "alternate_text": "Fix_2.jpg",
+            "priority": 1
+          }
+        ],
+        "average_floor_plate": 1080,
+        "location": {
+          "lat": -6.2185,
+          "lon": 106.830587
+        },
+        "description": {
+          "en": "\u003cp\u003e\u003cstrong\u003eMenara Kuningan\u003c/strong\u003e is a \u003ca href=\"/building/grade\"\u003eGrade B\u003c/a\u003e office building located at the heart of Jakarta's Central Business District. With a total building size of 34.576 sqm, the office building in Jl. HR. Rasuna Said No. Kav 5 is available for strata only.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eMenara Kuningan\u003c/strong\u003e is a tall building of 32 storeys that is of walking distance to Setiabudi One, Epicentrum Walk Rasuna and Kuningan City. \u003cstrong\u003eMenara Kuningan\u003c/strong\u003e is equipped with 7 lifts that is split into 2  zones, namely Low Zone and High Zone , and a dedicated executive lift.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eMenara Kuningan\u003c/strong\u003e has  ATM, Foodcourt, Restaurant, Minimarket and Bank as facilities in the office complex.\u003c/p\u003e",
+          "id": "\u003cp\u003e\u003cstrong\u003eMenara Kuningan\u003c/strong\u003e adalah  bangunan kantor tipe \u003ca href=\"/building/grade\"\u003eGrade B\u003c/a\u003e yang terletak di Central Business District (Pusat Kawasan Bisnis), jantung kota Jakarta. Dengan total luas bangunan 34.576 m2, bangunan kantor beralamat di Jl. HR. Rasuna Said No. Kav 5 tersedia untuk strata.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eMenara Kuningan\u003c/strong\u003e adalah bangunan tinggi dengan 32 lantai jarak dengan berjalan kaki Setiabudi One, Epicentrum Walk Rasuna dan Kuningan City. \u003cstrong\u003eMenara Kuningan\u003c/strong\u003e yang dilengkapi dengan 7 lift yang dibagi menjadi 2 zona, dikenal dengan Low Zone dan High Zone , dan sebuah \u003ci\u003ededicated executive lift\u003c/i\u003e.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eMenara Kuningan\u003c/strong\u003e memiliki ATM, Foodcourt, Restaurant, Minimarket dan Bank sebagai fasilitas di kawasan kantor.\u003c/p\u003e"
+        }
+      },
+      "rent_size_availability": {},
+      "view": {
+        "Window View": true
+      },
+      "facing": {},
+      "other_rooms": {}
+    },
+    {
+      "id": "5eb82cc928444f8261e74eca",
+      "create_at": 1589128393944818506,
+      "create_by_uid": "anita.karyati@spacestock.com",
+      "last_update_at": 1590022234685247121,
+      "last_update_by_uid": "anita.karyati@spacestock.com",
+      "status": 0,
+      "inactive_reason": "",
+      "published_state": "Published",
+      "published_by": "",
+      "published_at": 0,
+      "office_type": "Coworking Office",
+      "category": "Office",
+      "unit_type": "Lease",
+      "unit_number": "UOBPLACWROF1",
+      "zone": "High",
+      "level": "32",
+      "unit_size": 0,
+      "internal_agent_email": "",
+      "internal_referral_email": "",
+      "listing_type": "",
+      "certificate": "",
+      "condition": "Full Furnished",
+      "rent_fee_type": "",
+      "min_lease_term": 0,
+      "price": {
+        "base_rent": 11400000,
+        "sell_price": 0,
+        "service_charge": 0,
+        "payment_term": "",
+        "web_price": 1900000,
+        "max_occupant": 6
+      },
+      "fee": {
+        "full_rent": 0,
+        "full_sell": 0
+      },
+      "commision": {
+        "rent": 0,
+        "sell": 0
+      },
+      "pic": {
+        "type": "",
+        "uid": "5eb3a343720e142a67f158ab",
+        "name": " Martin",
+        "phone": "",
+        "fee": 0
+      },
+      "score": 12.5,
+      "images": {
+        "images_interior": [
+          {
+            "url": "office/rtkrrvyisdsqxlvh0ldb",
+            "alternate_text": "Work Space",
+            "priority": 1
+          },
+          {
+            "url": "office/x4vhemh7xfeotukha5jd",
+            "alternate_text": "Meeting \u0026 Conference Room",
+            "priority": 2
+          },
+          {
+            "url": "office/mqlusdtlkss5ac0ddaon",
+            "alternate_text": "Reception Area",
+            "priority": 3
+          },
+          {
+            "url": "office/uahthzl9ipyflnjxcqgf",
+            "alternate_text": "General",
+            "priority": 4
+          },
+          {
+            "url": "office/o1sftbj6jq4w6gxgctvl",
+            "alternate_text": "Work Space",
+            "priority": 5
+          }
+        ],
+        "images_floorplan": null,
+        "images_unit": null
+      },
+      "coworking": {
+        "id": "5eb39edcca6e38bf5ad13551",
+        "name": "CoHive",
+        "facilities": [
+          "Meeting Room",
+          "Receptionist",
+          "Printing Services",
+          "Pantry Service",
+          "Free Flow Coffee",
+          "High Speed Internet",
+          "Locker Service",
+          "Phone Booth",
+          "Cleaning Services",
+          "Event Space",
+          "Relaxation Lounge"
+        ]
+      },
+      "complex": {
+        "id": "5d36aac1483ac030cc7db931",
+        "name": "Thamrin Nine (UOB Plaza, Chubb Square and Indosurya Plaza)",
+        "address": {
+          "number": "",
+          "block": "",
+          "sector": "",
+          "street": "Jl. M.H. Thamrin",
+          "subdistrict": "",
+          "district": "Tanah Abang",
+          "city": "Jakarta Pusat",
+          "regency": "",
+          "province": "Jakarta",
+          "country": "Indonesia",
+          "zip_code": "10230"
+        }
+      },
+      "tower": {
+        "id": "5d36b2033d9e3cdf0fe6679d",
+        "name": "UOB Plaza",
+        "areas": [
+          "Jakarta Pusat",
+          "Tanah Abang",
+          "Thamrin",
+          "Sudirman",
+          "Kebon Melati"
+        ],
+        "office_hours": {
+          "available_24h": false,
+          "weekday": {
+            "opening_hour": "07:30",
+            "closing_hour": "17:30",
+            "is_open": true
+          },
+          "saturday": {
+            "opening_hour": "07:30",
+            "closing_hour": "13:00",
+            "is_open": true
+          },
+          "sunday": {
+            "opening_hour": "",
+            "closing_hour": "",
+            "is_open": false
+          }
+        },
+        "exterior_images": [
+          {
+            "url": "office/bqo1ybxrbl3d9g4albic",
+            "alternate_text": "Complex Exterior",
+            "priority": 1
+          },
+          {
+            "url": "https://s3.amazonaws.com/public.urbanindo.com/test/office-leasing/building-photos/552_thamrin-nine-uob-plaza_20171215024304_36424.jpg",
+            "alternate_text": "Sewa Kantor Gedung UOB Plaza Jakarta Pusat Tanah Abang Jakarta Exterior",
+            "priority": 2
+          },
+          {
+            "url": "https://s3.amazonaws.com/public.urbanindo.com/test/office-leasing/building-photos/552_thamrin-nine-uob-plaza_20171215024307_57743.jpg",
+            "alternate_text": "Sewa Kantor Gedung UOB Plaza Jakarta Pusat Tanah Abang Jakarta Exterior",
+            "priority": 3
+          },
+          {
+            "url": "https://s3.amazonaws.com/public.urbanindo.com/test/office-leasing/building-photos/552_thamrin-nine-uob-plaza_20171215024309_56210.jpg",
+            "alternate_text": "Sewa Kantor Gedung UOB Plaza Jakarta Pusat Tanah Abang Jakarta Exterior",
+            "priority": 4
+          },
+          {
+            "url": "https://s3.amazonaws.com/public.urbanindo.com/test/office-leasing/building-photos/552_thamrin-nine-uob-plaza_20171215024310_61231.jpg",
+            "alternate_text": "Sewa Kantor Gedung UOB Plaza Jakarta Pusat Tanah Abang Jakarta Exterior",
+            "priority": 5
+          },
+          {
+            "url": "https://s3.amazonaws.com/public.urbanindo.com/test/office-leasing/building-photos/552_thamrin-nine-uob-plaza_20171215024306_15099.jpg",
+            "alternate_text": "Sewa Kantor Gedung UOB Plaza Jakarta Pusat Tanah Abang Jakarta Exterior",
+            "priority": 6
+          }
+        ],
+        "average_floor_plate": 1216,
+        "location": {
+          "lat": -6.198075088915,
+          "lon": 106.8226312
+        },
+        "description": {
+          "en": "\u003cp\u003e\u003cstrong\u003eUOB Plaza\u003c/strong\u003e is a \u003ca href=\"/building/grade\"\u003eGrade A\u003c/a\u003e office building located at the heart of Jakarta's Central Business District. \u003cstrong\u003eUOB Plaza\u003c/strong\u003e is one of 3 in Thamrin Nine ( UOB Plaza , Chubb Square and Indosurya Plaza). With a total building size of 41.373 sqm, the office building in Jl. M.H. Thamrin is available for lease only.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eUOB Plaza\u003c/strong\u003e is a tall building of 46 storeys that is of walking distance to Plaza Indonesia, Grand Indonesia Shopping Town and Thamrin City. \u003cstrong\u003eUOB Plaza\u003c/strong\u003e is equipped with 13 lifts that is split into 3  zones, namely Low Zone, Mid Zone and High Zone , and a dedicated service lift and executive lift.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eUOB Plaza\u003c/strong\u003e has 606 parking lots to serve the office tenants and guests and  ATM, Foodcourt, Restaurant, Minimarket and Bank as facilities in the office complex.\u003c/p\u003e",
+          "id": "\u003cp\u003e\u003cstrong\u003eUOB Plaza\u003c/strong\u003e adalah  bangunan kantor tipe \u003ca href=\"/building/grade\"\u003eGrade A\u003c/a\u003e yang terletak di Central Business District (Pusat Kawasan Bisnis), jantung kota Jakarta. \u003cstrong\u003eUOB Plaza\u003c/strong\u003e adalah satu dari 3 bangunan kantor di Thamrin Nine ( UOB Plaza , Chubb Square and Indosurya Plaza). Dengan total luas bangunan 41.373 m2, bangunan kantor beralamat di Jl. M.H. Thamrin tersedia untuk sewa.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eUOB Plaza\u003c/strong\u003e adalah bangunan tinggi dengan 46 lantai jarak dengan berjalan kaki Plaza Indonesia, Grand Indonesia Shopping Town dan Thamrin City. \u003cstrong\u003eUOB Plaza\u003c/strong\u003e yang dilengkapi dengan 13 lift yang dibagi menjadi 3 zona, dikenal dengan Low Zone, Mid Zone dan High Zone , dan \u003ci\u003ededicated service lift\u003c/i\u003e dan \u003ci\u003eexecutive lift\u003c/i\u003e.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eUOB Plaza\u003c/strong\u003e memiliki 606 tempat parkir yang dapat digunakan oleh tenan dan tamu serta ATM, Foodcourt, Restaurant, Minimarket dan Bank sebagai fasilitas di kawasan kantor.\u003c/p\u003e"
+        }
+      },
+      "rent_size_availability": {},
+      "view": {
+        "Window View": true
+      },
+      "facing": {},
+      "other_rooms": {}
+    }
+  ]
+}

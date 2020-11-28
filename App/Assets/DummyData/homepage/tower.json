@@ -1,0 +1,1900 @@
+{
+  "paging": {
+    "total_data": 4,
+    "total_page": 1
+  },
+  "data": [
+    {
+      "id": "5d36ad2e3d9e3cdf0fe6645d",
+      "status": 0,
+      "name": "Wisma 46",
+      "tower_grade": "Grade A",
+      "tower_type": "Lease Only",
+      "tower_condition": "Available in Market",
+      "year_completion": 1996,
+      "year_renovation": 0,
+      "floor_count": 50,
+      "description": {
+        "en": "\u003cp\u003e\u003cstrong\u003eWisma 46\u003c/strong\u003e is a \u003ca href=\"/building/grade\"\u003eGrade A\u003c/a\u003e office building located at the heart of Jakarta's Central Business District. With a total building size of 87.000 sqm, the office building in Jl. Jend Sudirman Kav 1 is available for lease only.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eWisma 46\u003c/strong\u003e is a tall building of 50 storeys that is of walking distance to City Walk Sudirman and Grand Indonesia Shopping Town. \u003cstrong\u003eWisma 46\u003c/strong\u003e is equipped with 21 lifts that is split into 3  zones, namely Low Zone, Mid Zone and High Zone, and a dedicated service lift.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eWisma 46\u003c/strong\u003e has 1.080 parking lots to serve the office tenants and guests and  ATM, Restaurant, Minimarket and Bank as facilities in the office complex.\u003c/p\u003e",
+        "id": "\u003cp\u003e\u003cstrong\u003eWisma 46\u003c/strong\u003e adalah  bangunan kantor tipe \u003ca href=\"/building/grade\"\u003eGrade A\u003c/a\u003e yang terletak di Central Business District (Pusat Kawasan Bisnis), jantung kota Jakarta. Dengan total luas bangunan 87.000 m2, bangunan kantor beralamat di Jl. Jend Sudirman Kav 1 tersedia untuk sewa.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eWisma 46\u003c/strong\u003e adalah bangunan tinggi dengan 50 lantai jarak dengan berjalan kaki City Walk Sudirman dan Grand Indonesia Shopping Town. \u003cstrong\u003eWisma 46\u003c/strong\u003e yang dilengkapi dengan 21 lift yang dibagi menjadi 3 zona, dikenal dengan Low Zone, Mid Zone dan High Zone, dan sebuah \u003ci\u003ededicated service lift\u003c/i\u003e .\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eWisma 46\u003c/strong\u003e memiliki 1.080 tempat parkir yang dapat digunakan oleh tenan dan tamu serta ATM, Restaurant, Minimarket dan Bank sebagai fasilitas di kawasan kantor.\u003c/p\u003e"
+      },
+      "semi_gross_area": 87000,
+      "total_tower_size": 0,
+      "average_floor_plate": 1740,
+      "land_size": 33000,
+      "ceiling_height": 2.6,
+      "max_zone_per_floor": "4",
+      "images": {
+        "images_interior": [
+          {
+            "url": "office/Wisma_46_Interior_IMG_4219.JPG",
+            "alternate_text": "IMG_4219.JPG",
+            "priority": 0
+          },
+          {
+            "url": "office/Wisma_46_Interior_IMG_4220.JPG",
+            "alternate_text": "IMG_4220.JPG",
+            "priority": 1
+          },
+          {
+            "url": "office/Wisma_46_Interior_Photo_30-11-17_16.48.34.jpg",
+            "alternate_text": "Photo 30-11-17 16.48.34.jpg",
+            "priority": 2
+          }
+        ],
+        "images_exterior": [
+          {
+            "url": "office/pl7gwww0lr6duiajszqn",
+            "alternate_text": "Complex Exterior",
+            "priority": 1
+          },
+          {
+            "url": "office/ucrrrf13701dirxri2g3",
+            "alternate_text": "Complex Exterior",
+            "priority": 2
+          },
+          {
+            "url": "https://s3.amazonaws.com/public.urbanindo.com/test/office-leasing/building-photos/134_wisma-46-wisma-46_20160914044740_68427.jpg",
+            "alternate_text": "Sewa Kantor Gedung Wisma 46 Jakarta Pusat Tanah Abang Jakarta Exterior",
+            "priority": 3
+          },
+          {
+            "url": "https://s3.amazonaws.com/public.urbanindo.com/test/office-leasing/building-photos/134_wisma-46-wisma-46_20160914044740_26592.jpg",
+            "alternate_text": "Sewa Kantor Gedung Wisma 46 Jakarta Pusat Tanah Abang Jakarta Exterior",
+            "priority": 4
+          },
+          {
+            "url": "https://s3.amazonaws.com/public.urbanindo.com/test/office-leasing/building-photos/134_wisma-46-wisma-46_20160914044741_84281.jpg",
+            "alternate_text": "Sewa Kantor Gedung Wisma 46 Jakarta Pusat Tanah Abang Jakarta Exterior",
+            "priority": 5
+          },
+          {
+            "url": "https://s3.amazonaws.com/public.urbanindo.com/test/office-leasing/building-photos/134_wisma-46-wisma-46_20160914044741_50362.jpg",
+            "alternate_text": "Sewa Kantor Gedung Wisma 46 Jakarta Pusat Tanah Abang Jakarta Exterior",
+            "priority": 6
+          },
+          {
+            "url": "https://s3.amazonaws.com/public.urbanindo.com/test/office-leasing/building-photos/134_wisma-46-wisma-46_20160914044740_30729.jpg",
+            "alternate_text": "Sewa Kantor Gedung Wisma 46 Jakarta Pusat Tanah Abang Jakarta Exterior",
+            "priority": 7
+          }
+        ],
+        "images_floorplan": [
+          {
+            "url": "office/Wisma_46_Floor_Plan_11th_Floor.jpg",
+            "alternate_text": "11th Floor.jpg",
+            "priority": 0
+          },
+          {
+            "url": "office/Wisma_46_Floor_Plan_15th_Floor.jpg",
+            "alternate_text": "15th Floor.jpg",
+            "priority": 1
+          },
+          {
+            "url": "office/Wisma_46_Floor_Plan_2nd_Floor_Plan.jpg",
+            "alternate_text": "2nd Floor Plan.jpg",
+            "priority": 2
+          }
+        ],
+        "images_unit": null
+      },
+      "office_types": [],
+      "score": 101.6,
+      "total_deal": 6,
+      "total_unit": 49,
+      "sell_price": 0,
+      "monthly_rent_price": 0,
+      "occupancy_rate": 82,
+      "hide_price": false,
+      "fee": {
+        "full_rent": 0,
+        "full_sell": 0
+      },
+      "commission": {
+        "rent": 0,
+        "sell": 0
+      },
+      "internet": null,
+      "facilities": {
+        "main_facilities": {
+          "ATM": true,
+          "Bank": true,
+          "Foodcourt": true,
+          "Minimarket": true,
+          "Restaurant": true
+        },
+        "other_facilities": null
+      },
+      "lift": [
+        {
+          "name": "Passenger Lift",
+          "serving": "B1 - LG",
+          "count": 6
+        },
+        {
+          "name": "Low Zone",
+          "serving": "GF - 17",
+          "count": 6
+        },
+        {
+          "name": "High Zone",
+          "serving": "GF - 17 - 31/G - 31-46",
+          "count": 6
+        },
+        {
+          "name": "",
+          "serving": "Serving All Floors",
+          "count": 1
+        },
+        {
+          "name": "Parking Lift",
+          "serving": "",
+          "count": 2
+        }
+      ],
+      "promo": "",
+      "office_hours": {
+        "available_24h": false,
+        "weekday": {
+          "opening_hour": "07:00:00",
+          "closing_hour": "18:00:00",
+          "is_open": true
+        },
+        "saturday": {
+          "opening_hour": "07:00:00",
+          "closing_hour": "13:00:00",
+          "is_open": true
+        },
+        "sunday": {
+          "opening_hour": "",
+          "closing_hour": "",
+          "is_open": false
+        }
+      },
+      "toilet": {
+        "male_urinal": 3,
+        "male_cubicle": 3,
+        "female_cubicle": 3,
+        "executive_toilet": 1
+      },
+      "electricty": {
+        "special_request": "",
+        "options": {
+          "office_hour_charge": {
+            "ac": {
+              "type": "",
+              "price": 0,
+              "options": ""
+            },
+            "lighting": {
+              "type": "",
+              "price": 0,
+              "options": ""
+            }
+          },
+          "overtime_charge": {
+            "ac": null,
+            "lighting": null,
+            "public_area": null
+          }
+        }
+      },
+      "commercial_terms": {
+        "payment_term": "Quarterly",
+        "min_lease_term": 2,
+        "deposit": 3,
+        "service_charge": 98000,
+        "sinking_fund": 0,
+        "phone_installation": 0,
+        "phone_deposit": 3000000,
+        "phone_international_deposit": 0,
+        "phone_provider": ""
+      },
+      "parking_terms": [
+        {
+          "type": "Reserved",
+          "term": "Annually",
+          "price": 14400000,
+          "capacity": 1
+        },
+        {
+          "type": "Reserved",
+          "term": "Semi Annually",
+          "price": 4800000,
+          "capacity": 1
+        },
+        {
+          "type": "Motorcycle",
+          "term": "Semi Annually",
+          "price": 720000,
+          "capacity": 1
+        }
+      ],
+      "power_line": {
+        "primary": 7100,
+        "backup": 100
+      },
+      "fire_safety": {
+        "sprinkler": true,
+        "heat_detector": true,
+        "smoke_detector": false
+      },
+      "complex": {
+        "id": "5d36aa6f483ac030cc7db7f5",
+        "name": "Wisma 46 (BNI 46)",
+        "address": {
+          "number": "",
+          "block": "",
+          "sector": "",
+          "street": "",
+          "subdistrict": "",
+          "district": "",
+          "city": "",
+          "regency": "",
+          "province": "",
+          "country": "",
+          "zip_code": ""
+        }
+      },
+      "suggest_area": [
+        "Jakarta Pusat",
+        "Tanah Abang",
+        "Sudirman",
+        "Thamrin",
+        "Karet Tengsin"
+      ],
+      "suggest_name": "Wisma 46",
+      "suggest_poi": [
+        "Halte Dukuh Atas 2",
+        "Halte Dukuh Atas",
+        "Stasiun Sudirman",
+        "Stasiun MRT Dukuh Atas",
+        "Stasiun Karet",
+        "Halte Tosari",
+        "Stasiun MRT Setiabudi",
+        "City Walk Sudirman",
+        "Halte Setia Budi",
+        "Halte Latu Harhari",
+        "Grand Indonesia Shopping Town"
+      ],
+      "aggregation": {
+        "address": {
+          "number": "",
+          "block": "",
+          "sector": "",
+          "street": "Jl. Jend Sudirman Kav 1",
+          "subdistrict": "",
+          "district": "Tanah Abang",
+          "city": "Jakarta Pusat",
+          "regency": "",
+          "province": "Jakarta",
+          "country": "Indonesia",
+          "zip_code": "10220"
+        },
+        "location": {
+          "lat": -6.203484,
+          "lon": 106.820606
+        },
+        "price": {
+          "base_rent": 300000,
+          "sell_price": 0,
+          "service_charge": 98000,
+          "payment_term": "",
+          "web_price": 0,
+          "max_occupant": 0
+        },
+        "area": [
+          "Jakarta Pusat",
+          "Tanah Abang",
+          "Sudirman",
+          "Thamrin",
+          "Karet Tengsin"
+        ],
+        "nearby": [
+          {
+            "name": "Halte Dukuh Atas 2",
+            "type": "busway",
+            "poi-category": "",
+            "location": {
+              "type": "Point",
+              "coordinates": [
+                106.823137,
+                -6.204235
+              ]
+            },
+            "distance": 292.30792142344023
+          },
+          {
+            "name": "Halte Dukuh Atas",
+            "type": "busway",
+            "poi-category": "",
+            "location": {
+              "type": "Point",
+              "coordinates": [
+                106.822168,
+                -6.205856
+              ]
+            },
+            "distance": 315.5987867177719
+          },
+          {
+            "name": "Stasiun Sudirman",
+            "type": "train",
+            "poi-category": "",
+            "location": {
+              "type": "Point",
+              "coordinates": [
+                106.823563,
+                -6.2024
+              ]
+            },
+            "distance": 348.78206084378706
+          },
+          {
+            "name": "Stasiun MRT Dukuh Atas",
+            "type": "mrt",
+            "poi-category": "",
+            "location": {
+              "type": "Point",
+              "coordinates": [
+                106.822822,
+                -6.200836
+              ]
+            },
+            "distance": 383.4484713523417
+          },
+          {
+            "name": "Stasiun Karet",
+            "type": "train",
+            "poi-category": "",
+            "location": {
+              "type": "Point",
+              "coordinates": [
+                106.816511,
+                -6.200907
+              ]
+            },
+            "distance": 536.3469076126008
+          },
+          {
+            "name": "Halte Tosari",
+            "type": "busway",
+            "poi-category": "",
+            "location": {
+              "type": "Point",
+              "coordinates": [
+                106.823091,
+                -6.198624
+              ]
+            },
+            "distance": 606.8947193792355
+          },
+          {
+            "name": "Stasiun MRT Setiabudi",
+            "type": "mrt",
+            "poi-category": "",
+            "location": {
+              "type": "Point",
+              "coordinates": [
+                106.821372,
+                -6.20902
+              ]
+            },
+            "distance": 622.064152597612
+          },
+          {
+            "name": "City Walk Sudirman",
+            "type": "mall",
+            "poi-category": "",
+            "location": {
+              "type": "Point",
+              "coordinates": [
+                106.818286,
+                -6.208938
+              ]
+            },
+            "distance": 659.1881589907834
+          },
+          {
+            "name": "Halte Setia Budi",
+            "type": "busway",
+            "poi-category": "",
+            "location": {
+              "type": "Point",
+              "coordinates": [
+                106.821052,
+                -6.210336
+              ]
+            },
+            "distance": 764.3519822682787
+          },
+          {
+            "name": "Halte Latu Harhari",
+            "type": "busway",
+            "poi-category": "",
+            "location": {
+              "type": "Point",
+              "coordinates": [
+                106.827811,
+                -6.202699
+              ]
+            },
+            "distance": 802.1305202001429
+          },
+          {
+            "name": "Grand Indonesia Shopping Town",
+            "type": "mall",
+            "poi-category": "",
+            "location": {
+              "type": "Point",
+              "coordinates": [
+                106.819618,
+                -6.195115
+              ]
+            },
+            "distance": 938.0217724115615
+          }
+        ]
+      },
+      "category": "Office"
+    },
+    {
+      "id": "5d36ac9c3d9e3cdf0fe663fb",
+      "status": 0,
+      "name": "Satrio Tower",
+      "tower_grade": "Grade A",
+      "tower_type": "Lease Only",
+      "tower_condition": "Available in Market",
+      "year_completion": 2017,
+      "year_renovation": 0,
+      "floor_count": 28,
+      "description": {
+        "en": "\u003cp\u003e\u003cstrong\u003eSatrio Tower\u003c/strong\u003e is a new \u003ca href=\"/building/grade\"\u003eGrade A\u003c/a\u003e office building located at the heart of Jakarta's Central Business District. With a total building size of 32.000 sqm, the office building in Jl. Prof.Dr. Satrio C4 is available for lease only.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eSatrio Tower\u003c/strong\u003e is a 28 storeys office building that is of walking distance to Kuningan City, Mal Ambassador and ITC Kuningan. \u003cstrong\u003eSatrio Tower\u003c/strong\u003e is equipped with 12 lifts that is split into 2  zones, namely Low Zone and High Zone, and a dedicated service lift and executive lift.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eSatrio Tower\u003c/strong\u003e has 400 parking lots to serve the office tenants and guests and  ATM and Bank as facilities in the office complex.\u003c/p\u003e",
+        "id": "\u003cp\u003e\u003cstrong\u003eSatrio Tower\u003c/strong\u003e adalah  bangunan kantor baru tipe \u003ca href=\"/building/grade\"\u003eGrade A\u003c/a\u003e yang terletak di Central Business District (Pusat Kawasan Bisnis), jantung kota Jakarta. Dengan total luas bangunan 32.000 m2, bangunan kantor beralamat di Jl. Prof.Dr. Satrio C4 tersedia untuk sewa.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eSatrio Tower\u003c/strong\u003e adalah bangunan 28 lantai jarak dengan berjalan kaki Kuningan City, Mal Ambassador dan ITC Kuningan. \u003cstrong\u003eSatrio Tower\u003c/strong\u003e yang dilengkapi dengan 12 lift yang dibagi menjadi 2 zona, dikenal dengan Low Zone dan High Zone, dan \u003ci\u003ededicated service lift\u003c/i\u003e dan \u003ci\u003eexecutive lift\u003c/i\u003e.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eSatrio Tower\u003c/strong\u003e memiliki 400 tempat parkir yang dapat digunakan oleh tenan dan tamu serta ATM dan Bank sebagai fasilitas di kawasan kantor.\u003c/p\u003e"
+      },
+      "semi_gross_area": 32000,
+      "total_tower_size": 0,
+      "average_floor_plate": 1561,
+      "land_size": 4615,
+      "ceiling_height": 2.9,
+      "max_zone_per_floor": "4",
+      "images": {
+        "images_interior": [
+          {
+            "url": "https://s3.amazonaws.com/public.urbanindo.com/test/office-leasing/building-photos/85_satrio-tower-satrio-tower_20170320063006_82185.jpg",
+            "alternate_text": "Sewa Kantor Gedung Satrio Tower Jakarta Selatan Setiabudi Jakarta Interior",
+            "priority": 1
+          },
+          {
+            "url": "https://s3.amazonaws.com/public.urbanindo.com/test/office-leasing/building-photos/85_satrio-tower-satrio-tower_20170320063006_46573.jpg",
+            "alternate_text": "Sewa Kantor Gedung Satrio Tower Jakarta Selatan Setiabudi Jakarta Interior",
+            "priority": 2
+          },
+          {
+            "url": "https://s3.amazonaws.com/public.urbanindo.com/test/office-leasing/building-photos/85_satrio-tower-satrio-tower_20170320063007_30662.jpg",
+            "alternate_text": "Sewa Kantor Gedung Satrio Tower Jakarta Selatan Setiabudi Jakarta Interior",
+            "priority": 3
+          },
+          {
+            "url": "https://s3.amazonaws.com/public.urbanindo.com/test/office-leasing/building-photos/85_satrio-tower-satrio-tower_20170320063008_13708.jpg",
+            "alternate_text": "Sewa Kantor Gedung Satrio Tower Jakarta Selatan Setiabudi Jakarta Interior",
+            "priority": 4
+          },
+          {
+            "url": "https://s3.amazonaws.com/public.urbanindo.com/test/office-leasing/building-photos/85_satrio-tower-satrio-tower_20170320063008_70142.jpg",
+            "alternate_text": "Sewa Kantor Gedung Satrio Tower Jakarta Selatan Setiabudi Jakarta Interior",
+            "priority": 5
+          },
+          {
+            "url": "https://s3.amazonaws.com/public.urbanindo.com/test/office-leasing/building-photos/85_satrio-tower-satrio-tower_20170320063009_63789.jpg",
+            "alternate_text": "Sewa Kantor Gedung Satrio Tower Jakarta Selatan Setiabudi Jakarta Interior",
+            "priority": 6
+          },
+          {
+            "url": "https://s3.amazonaws.com/public.urbanindo.com/test/office-leasing/building-photos/85_satrio-tower-satrio-tower_20170320063009_45138.jpg",
+            "alternate_text": "Sewa Kantor Gedung Satrio Tower Jakarta Selatan Setiabudi Jakarta Interior",
+            "priority": 7
+          },
+          {
+            "url": "https://s3.amazonaws.com/public.urbanindo.com/test/office-leasing/building-photos/85_satrio-tower-satrio-tower_20170320063010_58834.jpg",
+            "alternate_text": "Sewa Kantor Gedung Satrio Tower Jakarta Selatan Setiabudi Jakarta Interior",
+            "priority": 8
+          },
+          {
+            "url": "https://s3.amazonaws.com/public.urbanindo.com/test/office-leasing/building-photos/85_satrio-tower-satrio-tower_20170320063010_45727.jpg",
+            "alternate_text": "Sewa Kantor Gedung Satrio Tower Jakarta Selatan Setiabudi Jakarta Interior",
+            "priority": 9
+          },
+          {
+            "url": "https://s3.amazonaws.com/public.urbanindo.com/test/office-leasing/building-photos/85_satrio-tower-satrio-tower_20170320063010_46272.jpg",
+            "alternate_text": "Sewa Kantor Gedung Satrio Tower Jakarta Selatan Setiabudi Jakarta Interior",
+            "priority": 10
+          },
+          {
+            "url": "https://s3.amazonaws.com/public.urbanindo.com/test/office-leasing/building-photos/85_satrio-tower-satrio-tower_20170411094514_65508.jpg",
+            "alternate_text": "Sewa Kantor Gedung Satrio Tower Jakarta Selatan Setiabudi Jakarta Interior",
+            "priority": 11
+          },
+          {
+            "url": "https://s3.amazonaws.com/public.urbanindo.com/test/office-leasing/building-photos/85_satrio-tower-satrio-tower_20170411094521_29252.jpg",
+            "alternate_text": "Sewa Kantor Gedung Satrio Tower Jakarta Selatan Setiabudi Jakarta Interior",
+            "priority": 12
+          },
+          {
+            "url": "https://s3.amazonaws.com/public.urbanindo.com/test/office-leasing/building-photos/85_satrio-tower-satrio-tower_20170411094527_95573.jpg",
+            "alternate_text": "Sewa Kantor Gedung Satrio Tower Jakarta Selatan Setiabudi Jakarta Interior",
+            "priority": 13
+          }
+        ],
+        "images_exterior": [
+          {
+            "url": "office/uiobspph6mtmtyna8p5e",
+            "alternate_text": "Complex Exterior",
+            "priority": 1
+          },
+          {
+            "url": "office/izhbjzpwgaebfjcymcqt",
+            "alternate_text": "Complex Exterior",
+            "priority": 2
+          }
+        ],
+        "images_floorplan": [
+          {
+            "url": "office/Satrio_Tower_Floor_Plan_Lt_6_1.jpg",
+            "alternate_text": "Lt 6 (1).jpg",
+            "priority": 0
+          },
+          {
+            "url": "office/Satrio_Tower_Floor_Plan_Satrio_Tower_lt_14.jpeg",
+            "alternate_text": "Satrio Tower lt 14.jpeg",
+            "priority": 1
+          },
+          {
+            "url": "office/Satrio_Tower_Floor_Plan_Satrio_lt9.jpg",
+            "alternate_text": "Satrio lt9.jpg",
+            "priority": 2
+          },
+          {
+            "url": "office/Satrio_Tower_Floor_Plan_Satrio.jpg",
+            "alternate_text": "Satrio.jpg",
+            "priority": 3
+          }
+        ],
+        "images_unit": null
+      },
+      "office_types": [],
+      "score": 101.04,
+      "total_deal": 0,
+      "total_unit": 4,
+      "sell_price": 0,
+      "monthly_rent_price": 0,
+      "occupancy_rate": 91,
+      "hide_price": false,
+      "fee": {
+        "full_rent": 0,
+        "full_sell": 0
+      },
+      "commission": {
+        "rent": 0,
+        "sell": 0
+      },
+      "internet": null,
+      "facilities": {
+        "main_facilities": {
+          "ATM": true,
+          "Bank": true
+        },
+        "other_facilities": {}
+      },
+      "lift": [
+        {
+          "name": "Low Zone",
+          "serving": "GF, 6 - 16",
+          "count": 4
+        },
+        {
+          "name": "High Zone",
+          "serving": "GF, 17 - 26",
+          "count": 4
+        },
+        {
+          "name": "Executive Lift",
+          "serving": "Serving All Floors",
+          "count": 1
+        },
+        {
+          "name": "Service Lift",
+          "serving": "Serving All Floors",
+          "count": 1
+        },
+        {
+          "name": "Parking Lift",
+          "serving": "GF, B2 - P5",
+          "count": 2
+        }
+      ],
+      "promo": "",
+      "office_hours": {
+        "available_24h": false,
+        "weekday": {
+          "opening_hour": "07:00:00",
+          "closing_hour": "18:00:00",
+          "is_open": true
+        },
+        "saturday": {
+          "opening_hour": "07:00:00",
+          "closing_hour": "13:00:00",
+          "is_open": true
+        },
+        "sunday": {
+          "opening_hour": "",
+          "closing_hour": "",
+          "is_open": false
+        }
+      },
+      "toilet": {
+        "male_urinal": 4,
+        "male_cubicle": 2,
+        "female_cubicle": 3,
+        "executive_toilet": 1
+      },
+      "electricty": {
+        "special_request": "",
+        "options": {
+          "office_hour_charge": {
+            "ac": {
+              "type": "Separately Metered",
+              "price": 0,
+              "options": ""
+            },
+            "lighting": {
+              "type": "Separately Metered",
+              "price": 0,
+              "options": ""
+            }
+          },
+          "overtime_charge": {
+            "ac": [
+              {
+                "type": "Separately Metered",
+                "price": 0,
+                "options": ""
+              }
+            ],
+            "lighting": [
+              {
+                "type": "Separately Metered",
+                "price": 0,
+                "options": ""
+              }
+            ],
+            "public_area": [
+              {
+                "type": "Separately Metered",
+                "price": 0,
+                "options": ""
+              }
+            ]
+          }
+        }
+      },
+      "commercial_terms": {
+        "payment_term": "Quarterly",
+        "min_lease_term": 3,
+        "deposit": 3,
+        "service_charge": 50000,
+        "sinking_fund": 0,
+        "phone_installation": 0,
+        "phone_deposit": 0,
+        "phone_international_deposit": 0,
+        "phone_provider": ""
+      },
+      "parking_terms": [
+        {
+          "type": "Reserved",
+          "term": "Annually",
+          "price": 15000000,
+          "capacity": 1
+        },
+        {
+          "type": "Unreserved",
+          "term": "Annually",
+          "price": 7200000,
+          "capacity": 1
+        },
+        {
+          "type": "Motorcycle",
+          "term": "Monthly",
+          "price": 200000,
+          "capacity": 1
+        }
+      ],
+      "power_line": {
+        "primary": 1883,
+        "backup": 100
+      },
+      "fire_safety": {
+        "sprinkler": true,
+        "heat_detector": true,
+        "smoke_detector": false
+      },
+      "complex": {
+        "id": "5d36aa5d483ac030cc7db7ad",
+        "name": "Satrio Tower",
+        "address": {
+          "number": "",
+          "block": "",
+          "sector": "",
+          "street": "",
+          "subdistrict": "",
+          "district": "",
+          "city": "",
+          "regency": "",
+          "province": "",
+          "country": "",
+          "zip_code": ""
+        }
+      },
+      "suggest_area": [
+        "Jakarta Selatan",
+        "Setiabudi",
+        "Satrio",
+        "Setia Budi",
+        "Kuningan Timur"
+      ],
+      "suggest_name": "Satrio Tower",
+      "suggest_poi": [
+        "Kuningan City",
+        "Mal Ambassador",
+        "ITC Kuningan",
+        "Ciputra World Jakarta",
+        "Halte Depkes",
+        "Halte GOR Sumantri",
+        "Halte Kuningan Madya",
+        "Halte Patra Kuningan"
+      ],
+      "aggregation": {
+        "address": {
+          "number": "",
+          "block": "",
+          "sector": "",
+          "street": "Jl. Prof.Dr. Satrio C4",
+          "subdistrict": "",
+          "district": "Setiabudi",
+          "city": "Jakarta Selatan",
+          "regency": "",
+          "province": "Jakarta",
+          "country": "Indonesia",
+          "zip_code": "12950"
+        },
+        "location": {
+          "lat": -6.225329280714813,
+          "lon": 106.8281927693115
+        },
+        "price": {
+          "base_rent": 200000,
+          "sell_price": 0,
+          "service_charge": 50000,
+          "payment_term": "",
+          "web_price": 0,
+          "max_occupant": 0
+        },
+        "area": [
+          "Jakarta Selatan",
+          "Setiabudi",
+          "Satrio",
+          "Setia Budi",
+          "Kuningan Timur"
+        ],
+        "nearby": [
+          {
+            "name": "Kuningan City",
+            "type": "mall",
+            "poi-category": "",
+            "location": {
+              "type": "Point",
+              "coordinates": [
+                106.829567,
+                -6.224649
+              ]
+            },
+            "distance": 169.85077809215323
+          },
+          {
+            "name": "Mal Ambassador",
+            "type": "mall",
+            "poi-category": "",
+            "location": {
+              "type": "Point",
+              "coordinates": [
+                106.826937,
+                -6.223668
+              ]
+            },
+            "distance": 231.3159452152279
+          },
+          {
+            "name": "ITC Kuningan",
+            "type": "mall",
+            "poi-category": "",
+            "location": {
+              "type": "Point",
+              "coordinates": [
+                106.825958,
+                -6.223168
+              ]
+            },
+            "distance": 345.0242715600835
+          },
+          {
+            "name": "Ciputra World Jakarta",
+            "type": "mall",
+            "poi-category": "",
+            "location": {
+              "type": "Point",
+              "coordinates": [
+                106.823357,
+                -6.223777
+              ]
+            },
+            "distance": 562.3603097501909
+          },
+          {
+            "name": "Halte Depkes",
+            "type": "busway",
+            "poi-category": "",
+            "location": {
+              "type": "Point",
+              "coordinates": [
+                106.8332,
+                -6.228553
+              ]
+            },
+            "distance": 660.1618107869693
+          },
+          {
+            "name": "Halte GOR Sumantri",
+            "type": "busway",
+            "poi-category": "",
+            "location": {
+              "type": "Point",
+              "coordinates": [
+                106.831977,
+                -6.220617
+              ]
+            },
+            "distance": 671.1829801384071
+          },
+          {
+            "name": "Halte Kuningan Madya",
+            "type": "busway",
+            "poi-category": "",
+            "location": {
+              "type": "Point",
+              "coordinates": [
+                106.830901,
+                -6.217311
+              ]
+            },
+            "distance": 941.5196743766427
+          },
+          {
+            "name": "Halte Patra Kuningan",
+            "type": "busway",
+            "poi-category": "",
+            "location": {
+              "type": "Point",
+              "coordinates": [
+                106.831312,
+                -6.233523
+              ]
+            },
+            "distance": 975.2652442972187
+          }
+        ]
+      },
+      "category": "Office"
+    },
+    {
+      "id": "5d36ad743d9e3cdf0fe6648f",
+      "status": 0,
+      "name": "The Plaza",
+      "tower_grade": "Premium",
+      "tower_type": "Lease Only",
+      "tower_condition": "Available in Market",
+      "year_completion": 2009,
+      "year_renovation": 0,
+      "floor_count": 38,
+      "description": {
+        "en": "\u003cp\u003e\u003cstrong\u003eThe Plaza\u003c/strong\u003e is a \u003ca href=\"/building/grade\"\u003ePremium\u003c/a\u003e office building located at the heart of Jakarta's Central Business District. With a total building size of 56.447 sqm, the office building in Jl. M.H. Thamrin No. 28-30 is available for lease only.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eThe Plaza\u003c/strong\u003e is a tall building of 38 storeys that is of walking distance to Plaza Indonesia, Grand Indonesia Shopping Town and Sarinah Plaza. \u003cstrong\u003eThe Plaza\u003c/strong\u003e is equipped with 20 lifts that is split into 3  zones, namely Low Zone, Mid Zone and High Zone, and a dedicated service lift and executive lift.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eThe Plaza\u003c/strong\u003e has 2.500 parking lots to serve the office tenants and guests and  ATM, Foodcourt, Restaurant and Minimarket as facilities in the office complex.\u003c/p\u003e",
+        "id": "\u003cp\u003e\u003cstrong\u003eThe Plaza\u003c/strong\u003e adalah  bangunan kantor tipe \u003ca href=\"/building/grade\"\u003ePremium\u003c/a\u003e yang terletak di Central Business District (Pusat Kawasan Bisnis), jantung kota Jakarta. Dengan total luas bangunan 56.447 m2, bangunan kantor beralamat di Jl. M.H. Thamrin No. 28-30 tersedia untuk sewa.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eThe Plaza\u003c/strong\u003e adalah bangunan tinggi dengan 38 lantai jarak dengan berjalan kaki Plaza Indonesia, Grand Indonesia Shopping Town dan Sarinah Plaza. \u003cstrong\u003eThe Plaza\u003c/strong\u003e yang dilengkapi dengan 20 lift yang dibagi menjadi 3 zona, dikenal dengan Low Zone, Mid Zone dan High Zone, dan \u003ci\u003ededicated service lift\u003c/i\u003e dan \u003ci\u003eexecutive lift\u003c/i\u003e.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eThe Plaza\u003c/strong\u003e memiliki 2.500 tempat parkir yang dapat digunakan oleh tenan dan tamu serta ATM, Foodcourt, Restaurant dan Minimarket sebagai fasilitas di kawasan kantor.\u003c/p\u003e"
+      },
+      "semi_gross_area": 56447,
+      "total_tower_size": 0,
+      "average_floor_plate": 1700,
+      "land_size": 1,
+      "ceiling_height": 2.9,
+      "max_zone_per_floor": "4",
+      "images": {
+        "images_interior": [
+          {
+            "url": "office/The_Plaza_Interior_IMG20171101110753.jpg",
+            "alternate_text": "IMG20171101110753.jpg",
+            "priority": 0
+          },
+          {
+            "url": "office/The_Plaza_Interior_IMG20171101110806.jpg",
+            "alternate_text": "IMG20171101110806.jpg",
+            "priority": 1
+          },
+          {
+            "url": "office/The_Plaza_Interior_IMG20171101110826.jpg",
+            "alternate_text": "IMG20171101110826.jpg",
+            "priority": 2
+          },
+          {
+            "url": "office/The_Plaza_Interior_IMG20171102120050.jpg",
+            "alternate_text": "IMG20171102120050.jpg",
+            "priority": 3
+          },
+          {
+            "url": "office/The_Plaza_Interior_IMG20171102122528.jpg",
+            "alternate_text": "IMG20171102122528.jpg",
+            "priority": 4
+          },
+          {
+            "url": "office/The_Plaza_Interior_IMG20171102122532.jpg",
+            "alternate_text": "IMG20171102122532.jpg",
+            "priority": 5
+          },
+          {
+            "url": "office/The_Plaza_Interior_IMG20171102124934.jpg",
+            "alternate_text": "IMG20171102124934.jpg",
+            "priority": 6
+          },
+          {
+            "url": "office/The_Plaza_Interior_IMG20171102125751.jpg",
+            "alternate_text": "IMG20171102125751.jpg",
+            "priority": 7
+          },
+          {
+            "url": "office/The_Plaza_Interior_IMG20171102130822.jpg",
+            "alternate_text": "IMG20171102130822.jpg",
+            "priority": 8
+          },
+          {
+            "url": "office/The_Plaza_Interior_IMG20171102130834.jpg",
+            "alternate_text": "IMG20171102130834.jpg",
+            "priority": 9
+          },
+          {
+            "url": "office/The_Plaza_Interior_IMG20171102130836.jpg",
+            "alternate_text": "IMG20171102130836.jpg",
+            "priority": 10
+          },
+          {
+            "url": "office/The_Plaza_Interior_IMG20171102130853.jpg",
+            "alternate_text": "IMG20171102130853.jpg",
+            "priority": 11
+          },
+          {
+            "url": "office/The_Plaza_Interior_IMG20171102130906.jpg",
+            "alternate_text": "IMG20171102130906.jpg",
+            "priority": 12
+          },
+          {
+            "url": "office/The_Plaza_Interior_IMG20171102130909.jpg",
+            "alternate_text": "IMG20171102130909.jpg",
+            "priority": 13
+          },
+          {
+            "url": "office/The_Plaza_Interior_IMG20171102130927.jpg",
+            "alternate_text": "IMG20171102130927.jpg",
+            "priority": 14
+          },
+          {
+            "url": "office/The_Plaza_Interior_IMG20171102130929.jpg",
+            "alternate_text": "IMG20171102130929.jpg",
+            "priority": 15
+          },
+          {
+            "url": "office/The_Plaza_Interior_IMG20171102130939.jpg",
+            "alternate_text": "IMG20171102130939.jpg",
+            "priority": 16
+          },
+          {
+            "url": "office/The_Plaza_Interior_IMG20171102131013.jpg",
+            "alternate_text": "IMG20171102131013.jpg",
+            "priority": 17
+          },
+          {
+            "url": "office/The_Plaza_Interior_IMG20171102131024.jpg",
+            "alternate_text": "IMG20171102131024.jpg",
+            "priority": 18
+          },
+          {
+            "url": "office/The_Plaza_Interior_IMG20171102131042.jpg",
+            "alternate_text": "IMG20171102131042.jpg",
+            "priority": 19
+          },
+          {
+            "url": "office/The_Plaza_Interior_IMG20171102131101.jpg",
+            "alternate_text": "IMG20171102131101.jpg",
+            "priority": 20
+          },
+          {
+            "url": "office/The_Plaza_Interior_IMG20171102131105.jpg",
+            "alternate_text": "IMG20171102131105.jpg",
+            "priority": 21
+          },
+          {
+            "url": "office/The_Plaza_Interior_IMG20171102132237.jpg",
+            "alternate_text": "IMG20171102132237.jpg",
+            "priority": 22
+          },
+          {
+            "url": "office/The_Plaza_Interior_IMG20171102132245.jpg",
+            "alternate_text": "IMG20171102132245.jpg",
+            "priority": 23
+          },
+          {
+            "url": "office/The_Plaza_Interior_IMG20171102132305.jpg",
+            "alternate_text": "IMG20171102132305.jpg",
+            "priority": 24
+          },
+          {
+            "url": "office/The_Plaza_Interior_IMG20171102132307.jpg",
+            "alternate_text": "IMG20171102132307.jpg",
+            "priority": 25
+          },
+          {
+            "url": "office/The_Plaza_Interior_IMG20171102132309.jpg",
+            "alternate_text": "IMG20171102132309.jpg",
+            "priority": 26
+          },
+          {
+            "url": "office/The_Plaza_Interior_IMG20171102132312.jpg",
+            "alternate_text": "IMG20171102132312.jpg",
+            "priority": 27
+          },
+          {
+            "url": "office/The_Plaza_Interior_IMG20171102132334.jpg",
+            "alternate_text": "IMG20171102132334.jpg",
+            "priority": 28
+          },
+          {
+            "url": "office/The_Plaza_Interior_IMG20171102132724.jpg",
+            "alternate_text": "IMG20171102132724.jpg",
+            "priority": 29
+          },
+          {
+            "url": "office/The_Plaza_Interior_IMG20171102132829.jpg",
+            "alternate_text": "IMG20171102132829.jpg",
+            "priority": 30
+          },
+          {
+            "url": "office/The_Plaza_Interior_IMG20171102132840.jpg",
+            "alternate_text": "IMG20171102132840.jpg",
+            "priority": 31
+          },
+          {
+            "url": "office/The_Plaza_Interior_IMG20171102132844.jpg",
+            "alternate_text": "IMG20171102132844.jpg",
+            "priority": 32
+          },
+          {
+            "url": "office/The_Plaza_Interior_IMG20171102133433.jpg",
+            "alternate_text": "IMG20171102133433.jpg",
+            "priority": 33
+          },
+          {
+            "url": "office/The_Plaza_Interior_IMG20171102133442.jpg",
+            "alternate_text": "IMG20171102133442.jpg",
+            "priority": 34
+          },
+          {
+            "url": "office/The_Plaza_Interior_IMG20171102133456.jpg",
+            "alternate_text": "IMG20171102133456.jpg",
+            "priority": 35
+          },
+          {
+            "url": "office/The_Plaza_Interior_IMG20171102133458.jpg",
+            "alternate_text": "IMG20171102133458.jpg",
+            "priority": 36
+          },
+          {
+            "url": "office/The_Plaza_Interior_IMG20171102133500.jpg",
+            "alternate_text": "IMG20171102133500.jpg",
+            "priority": 37
+          },
+          {
+            "url": "office/The_Plaza_Interior_IMG20171102133537.jpg",
+            "alternate_text": "IMG20171102133537.jpg",
+            "priority": 38
+          },
+          {
+            "url": "office/The_Plaza_Interior_IMG20171102135028.jpg",
+            "alternate_text": "IMG20171102135028.jpg",
+            "priority": 39
+          },
+          {
+            "url": "office/The_Plaza_Interior_IMG20171102135207.jpg",
+            "alternate_text": "IMG20171102135207.jpg",
+            "priority": 40
+          },
+          {
+            "url": "office/The_Plaza_Interior_IMG20171102140621.jpg",
+            "alternate_text": "IMG20171102140621.jpg",
+            "priority": 41
+          },
+          {
+            "url": "office/The_Plaza_Interior_IMG20171102140629.jpg",
+            "alternate_text": "IMG20171102140629.jpg",
+            "priority": 42
+          }
+        ],
+        "images_exterior": [
+          {
+            "url": "office/t5simjg9sif3lf1gemdb",
+            "alternate_text": "Complex Exterior",
+            "priority": 1
+          },
+          {
+            "url": "https://s3.amazonaws.com/public.urbanindo.com/test/office-leasing/building-photos/159_the-plaza-the-plaza_20160914044725_16323.jpg",
+            "alternate_text": "Sewa Kantor Gedung The Plaza Jakarta Pusat Menteng Jakarta Exterior",
+            "priority": 2
+          },
+          {
+            "url": "https://s3.amazonaws.com/public.urbanindo.com/test/office-leasing/building-photos/159_the-plaza-the-plaza_20160914044725_78293.jpg",
+            "alternate_text": "Sewa Kantor Gedung The Plaza Jakarta Pusat Menteng Jakarta Exterior",
+            "priority": 3
+          },
+          {
+            "url": "https://s3.amazonaws.com/public.urbanindo.com/test/office-leasing/building-photos/159_the-plaza-the-plaza_20160914044728_61895.jpg",
+            "alternate_text": "Sewa Kantor Gedung The Plaza Jakarta Pusat Menteng Jakarta Exterior",
+            "priority": 4
+          },
+          {
+            "url": "https://s3.amazonaws.com/public.urbanindo.com/test/office-leasing/building-photos/159_the-plaza-the-plaza_20160914044728_17919.jpg",
+            "alternate_text": "Sewa Kantor Gedung The Plaza Jakarta Pusat Menteng Jakarta Exterior",
+            "priority": 5
+          },
+          {
+            "url": "https://s3.amazonaws.com/public.urbanindo.com/test/office-leasing/building-photos/159_the-plaza-the-plaza_20160914044729_97096.jpg",
+            "alternate_text": "Sewa Kantor Gedung The Plaza Jakarta Pusat Menteng Jakarta Exterior",
+            "priority": 6
+          },
+          {
+            "url": "https://s3.amazonaws.com/public.urbanindo.com/test/office-leasing/building-photos/159_the-plaza-the-plaza_20160914044731_88916.jpg",
+            "alternate_text": "Sewa Kantor Gedung The Plaza Jakarta Pusat Menteng Jakarta Exterior",
+            "priority": 7
+          },
+          {
+            "url": "https://s3.amazonaws.com/public.urbanindo.com/test/office-leasing/building-photos/159_the-plaza-the-plaza_20160914044724_97546.jpg",
+            "alternate_text": "Sewa Kantor Gedung The Plaza Jakarta Pusat Menteng Jakarta Exterior",
+            "priority": 8
+          }
+        ],
+        "images_floorplan": [
+          {
+            "url": "office/The_Plaza_Floor_Plan_Floor_Plan.jpg",
+            "alternate_text": "Floor Plan.jpg",
+            "priority": 1
+          }
+        ],
+        "images_unit": null
+      },
+      "office_types": [],
+      "score": 101.09,
+      "total_deal": 0,
+      "total_unit": 9,
+      "sell_price": 0,
+      "monthly_rent_price": 0,
+      "occupancy_rate": 92,
+      "hide_price": false,
+      "fee": {
+        "full_rent": 0,
+        "full_sell": 0
+      },
+      "commission": {
+        "rent": 0,
+        "sell": 0
+      },
+      "internet": null,
+      "facilities": {
+        "main_facilities": {
+          "ATM": true,
+          "Bank": true,
+          "Foodcourt": true,
+          "Minimarket": true,
+          "Restaurant": true
+        },
+        "other_facilities": null
+      },
+      "lift": [
+        {
+          "name": "Low Zone",
+          "serving": "P1, 1, 7 - 21",
+          "count": 6
+        },
+        {
+          "name": "Mid Zone",
+          "serving": "P1, 1, 22 - 33",
+          "count": 5
+        },
+        {
+          "name": "High Zone",
+          "serving": "P1, 1, 35 - 46",
+          "count": 6
+        },
+        {
+          "name": "Service Lift",
+          "serving": "P1, 1,7 - 46M",
+          "count": 2
+        },
+        {
+          "name": "Executive Lift",
+          "serving": "P1, 1, 7 - 46M",
+          "count": 1
+        }
+      ],
+      "promo": "",
+      "office_hours": {
+        "available_24h": false,
+        "weekday": {
+          "opening_hour": "07:00:00",
+          "closing_hour": "18:00:00",
+          "is_open": true
+        },
+        "saturday": {
+          "opening_hour": "07:00:00",
+          "closing_hour": "13:00:00",
+          "is_open": true
+        },
+        "sunday": {
+          "opening_hour": "",
+          "closing_hour": "",
+          "is_open": false
+        }
+      },
+      "toilet": {
+        "male_urinal": 3,
+        "male_cubicle": 3,
+        "female_cubicle": 4,
+        "executive_toilet": 1
+      },
+      "electricty": {
+        "special_request": "",
+        "options": {
+          "office_hour_charge": {
+            "ac": {
+              "type": "",
+              "price": 0,
+              "options": ""
+            },
+            "lighting": {
+              "type": "",
+              "price": 0,
+              "options": ""
+            }
+          },
+          "overtime_charge": {
+            "ac": null,
+            "lighting": null,
+            "public_area": null
+          }
+        }
+      },
+      "commercial_terms": {
+        "payment_term": "Quarterly",
+        "min_lease_term": 2,
+        "deposit": 3,
+        "service_charge": 100000,
+        "sinking_fund": 0,
+        "phone_installation": 0,
+        "phone_deposit": 3000000,
+        "phone_international_deposit": 0,
+        "phone_provider": ""
+      },
+      "parking_terms": [
+        {
+          "type": "Reserved Basement",
+          "term": "Annually",
+          "price": 18000000,
+          "capacity": 1
+        },
+        {
+          "type": "Unreserved Basement",
+          "term": "Annually",
+          "price": 9600000,
+          "capacity": 1
+        },
+        {
+          "type": "Motorcycle",
+          "term": "Monthly",
+          "price": 200000,
+          "capacity": 1
+        }
+      ],
+      "power_line": {
+        "primary": 2000,
+        "backup": 100
+      },
+      "fire_safety": {
+        "sprinkler": true,
+        "heat_detector": true,
+        "smoke_detector": false
+      },
+      "complex": {
+        "id": "5d36aa79483ac030cc7db81d",
+        "name": "The Plaza",
+        "address": {
+          "number": "",
+          "block": "",
+          "sector": "",
+          "street": "",
+          "subdistrict": "",
+          "district": "",
+          "city": "",
+          "regency": "",
+          "province": "",
+          "country": "",
+          "zip_code": ""
+        }
+      },
+      "suggest_area": [
+        "Jakarta Pusat",
+        "Menteng",
+        "Thamrin",
+        "Sudirman",
+        "Gondangdia"
+      ],
+      "suggest_name": "The Plaza",
+      "suggest_poi": [
+        "Halte Bundaran HI",
+        "Plaza Indonesia",
+        "Stasiun MRT Bundaran HI",
+        "Grand Indonesia Shopping Town",
+        "Halte Sarinah",
+        "Sarinah Plaza",
+        "Thamrin City",
+        "Halte Tosari",
+        "Menteng Plaza",
+        "Stasiun MRT Dukuh Atas"
+      ],
+      "aggregation": {
+        "address": {
+          "number": "",
+          "block": "",
+          "sector": "",
+          "street": "Jl. M.H. Thamrin No. 28-30",
+          "subdistrict": "",
+          "district": "Menteng",
+          "city": "Jakarta Pusat",
+          "regency": "",
+          "province": "Jakarta",
+          "country": "Indonesia",
+          "zip_code": "10350"
+        },
+        "location": {
+          "lat": -6.192334650352521,
+          "lon": 106.82205586109922
+        },
+        "price": {
+          "base_rent": 396000,
+          "sell_price": 0,
+          "service_charge": 100000,
+          "payment_term": "",
+          "web_price": 0,
+          "max_occupant": 0
+        },
+        "area": [
+          "Jakarta Pusat",
+          "Menteng",
+          "Thamrin",
+          "Sudirman",
+          "Gondangdia"
+        ],
+        "nearby": [
+          {
+            "name": "Halte Bundaran HI",
+            "type": "busway",
+            "poi-category": "",
+            "location": {
+              "type": "Point",
+              "coordinates": [
+                106.822962,
+                -6.193483
+              ]
+            },
+            "distance": 162.43352328450047
+          },
+          {
+            "name": "Plaza Indonesia",
+            "type": "mall",
+            "poi-category": "",
+            "location": {
+              "type": "Point",
+              "coordinates": [
+                106.82253,
+                -6.194107
+              ]
+            },
+            "distance": 204.11290331721702
+          },
+          {
+            "name": "Stasiun MRT Bundaran HI",
+            "type": "mrt",
+            "poi-category": "",
+            "location": {
+              "type": "Point",
+              "coordinates": [
+                106.82297,
+                -6.193951
+              ]
+            },
+            "distance": 206.37954005867414
+          },
+          {
+            "name": "Grand Indonesia Shopping Town",
+            "type": "mall",
+            "poi-category": "",
+            "location": {
+              "type": "Point",
+              "coordinates": [
+                106.819618,
+                -6.195115
+              ]
+            },
+            "distance": 410.5697303282417
+          },
+          {
+            "name": "Halte Sarinah",
+            "type": "busway",
+            "poi-category": "",
+            "location": {
+              "type": "Point",
+              "coordinates": [
+                106.822962,
+                -6.187979
+              ]
+            },
+            "distance": 495.1627918136236
+          },
+          {
+            "name": "Sarinah Plaza",
+            "type": "mall",
+            "poi-category": "",
+            "location": {
+              "type": "Point",
+              "coordinates": [
+                106.823754,
+                -6.187657
+              ]
+            },
+            "distance": 553.6181377555125
+          },
+          {
+            "name": "Thamrin City",
+            "type": "mall",
+            "poi-category": "",
+            "location": {
+              "type": "Point",
+              "coordinates": [
+                106.817352,
+                -6.19455
+              ]
+            },
+            "distance": 576.0284080681198
+          },
+          {
+            "name": "Halte Tosari",
+            "type": "busway",
+            "poi-category": "",
+            "location": {
+              "type": "Point",
+              "coordinates": [
+                106.823091,
+                -6.198624
+              ]
+            },
+            "distance": 709.3925571691993
+          },
+          {
+            "name": "Menteng Plaza",
+            "type": "mall",
+            "poi-category": "",
+            "location": {
+              "type": "Point",
+              "coordinates": [
+                106.829056,
+                -6.19687
+              ]
+            },
+            "distance": 924.654871506082
+          },
+          {
+            "name": "Stasiun MRT Dukuh Atas",
+            "type": "mrt",
+            "poi-category": "",
+            "location": {
+              "type": "Point",
+              "coordinates": [
+                106.822822,
+                -6.200836
+              ]
+            },
+            "distance": 950.1108788996023
+          }
+        ]
+      },
+      "category": "Office"
+    },
+    {
+      "id": "5d36ae7e3d9e3cdf0fe66541",
+      "status": 0,
+      "name": "88 Kota Kasablanka Tower A",
+      "tower_grade": "Premium",
+      "tower_type": "Lease Only",
+      "tower_condition": "Available in Market",
+      "year_completion": 2012,
+      "year_renovation": 0,
+      "floor_count": 39,
+      "description": {
+        "en": "\u003cp\u003e\u003cstrong\u003e88 Kota Kasablanka Tower A\u003c/strong\u003e is a \u003ca href=\"/building/grade\"\u003ePremium\u003c/a\u003e office building located at Jakarta Selatan. \u003cstrong\u003e88 Kota Kasablanka Tower A\u003c/strong\u003e is one of 4 in Kota Kasablanka. With a total building size of 31.430 sqm, the office building in Jl. Casablanca Raya No. 88 is available for strata and lease.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e88 Kota Kasablanka Tower A\u003c/strong\u003e is a tall building of 39 storeys that is of walking distance to Kota Kasablanka and Epicentrum Walk Rasuna. \u003cstrong\u003e88 Kota Kasablanka Tower A\u003c/strong\u003e is equipped with 12 lifts that is split into 3  zones, namely Low Zone, Mid Zone and High Zone, and a dedicated service lift.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e88 Kota Kasablanka Tower A\u003c/strong\u003e has  ATM, Foodcourt, Restaurant, Minimarket and Bank as facilities in the office complex.\u003c/p\u003e",
+        "id": "\u003cp\u003e\u003cstrong\u003e88 Kota Kasablanka Tower A\u003c/strong\u003e adalah  bangunan kantor tipe \u003ca href=\"/building/grade\"\u003ePremium\u003c/a\u003e yang terletak di Jakarta Selatan. \u003cstrong\u003e88 Kota Kasablanka Tower A\u003c/strong\u003e adalah satu dari 4 bangunan kantor di Kota Kasablanka. Dengan total luas bangunan 31.430 m2, bangunan kantor beralamat di Jl. Casablanca Raya No. 88 tersedia untuk strata dan sewa.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e88 Kota Kasablanka Tower A\u003c/strong\u003e adalah bangunan tinggi dengan 39 lantai jarak dengan berjalan kaki Kota Kasablanka dan Epicentrum Walk Rasuna. \u003cstrong\u003e88 Kota Kasablanka Tower A\u003c/strong\u003e yang dilengkapi dengan 12 lift yang dibagi menjadi 3 zona, dikenal dengan Low Zone, Mid Zone dan High Zone, dan sebuah \u003ci\u003ededicated service lift\u003c/i\u003e .\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e88 Kota Kasablanka Tower A\u003c/strong\u003e memiliki ATM, Foodcourt, Restaurant, Minimarket dan Bank sebagai fasilitas di kawasan kantor.\u003c/p\u003e"
+      },
+      "semi_gross_area": 31430,
+      "total_tower_size": 0,
+      "average_floor_plate": 1768,
+      "land_size": 95000,
+      "ceiling_height": 2.85,
+      "max_zone_per_floor": "8",
+      "images": {
+        "images_interior": [
+          {
+            "url": "https://s3.amazonaws.com/public.urbanindo.com/test/office-leasing/building-photos/248_kota-kasablanka-88-kasablanka-tower-a_20170214042625_12353.jpg",
+            "alternate_text": "Sewa Kantor Gedung 88 Kota Kasablanka Tower A Jakarta Selatan Setiabudi Jakarta Interior",
+            "priority": 0
+          },
+          {
+            "url": "https://s3.amazonaws.com/public.urbanindo.com/test/office-leasing/building-photos/248_kota-kasablanka-88-kasablanka-tower-a_20170214042625_83286.jpg",
+            "alternate_text": "Sewa Kantor Gedung 88 Kota Kasablanka Tower A Jakarta Selatan Setiabudi Jakarta Interior",
+            "priority": 0
+          },
+          {
+            "url": "https://s3.amazonaws.com/public.urbanindo.com/test/office-leasing/building-photos/248_kota-kasablanka-88-kasablanka-tower-a_20170214042624_47835.jpg",
+            "alternate_text": "Sewa Kantor Gedung 88 Kota Kasablanka Tower A Jakarta Selatan Setiabudi Jakarta Interior",
+            "priority": 0
+          },
+          {
+            "url": "https://s3.amazonaws.com/public.urbanindo.com/test/office-leasing/building-photos/248_kota-kasablanka-88-kasablanka-tower-a_20170214042623_61601.jpg",
+            "alternate_text": "Sewa Kantor Gedung 88 Kota Kasablanka Tower A Jakarta Selatan Setiabudi Jakarta Interior",
+            "priority": 0
+          },
+          {
+            "url": "https://s3.amazonaws.com/public.urbanindo.com/test/office-leasing/building-photos/248_kota-kasablanka-88-kasablanka-tower-a_20170214042623_44751.jpg",
+            "alternate_text": "Sewa Kantor Gedung 88 Kota Kasablanka Tower A Jakarta Selatan Setiabudi Jakarta Interior",
+            "priority": 0
+          },
+          {
+            "url": "https://s3.amazonaws.com/public.urbanindo.com/test/office-leasing/building-photos/248_kota-kasablanka-88-kasablanka-tower-a_20170214042623_23856.jpg",
+            "alternate_text": "Sewa Kantor Gedung 88 Kota Kasablanka Tower A Jakarta Selatan Setiabudi Jakarta Interior",
+            "priority": 0
+          },
+          {
+            "url": "https://s3.amazonaws.com/public.urbanindo.com/test/office-leasing/building-photos/248_kota-kasablanka-88-kasablanka-tower-a_20170214042623_59319.jpg",
+            "alternate_text": "Sewa Kantor Gedung 88 Kota Kasablanka Tower A Jakarta Selatan Setiabudi Jakarta Interior",
+            "priority": 0
+          },
+          {
+            "url": "https://s3.amazonaws.com/public.urbanindo.com/test/office-leasing/building-photos/248_kota-kasablanka-88-kasablanka-tower-a_20170214042622_58204.jpg",
+            "alternate_text": "Sewa Kantor Gedung 88 Kota Kasablanka Tower A Jakarta Selatan Setiabudi Jakarta Interior",
+            "priority": 0
+          },
+          {
+            "url": "https://s3.amazonaws.com/public.urbanindo.com/test/office-leasing/building-photos/248_kota-kasablanka-88-kasablanka-tower-a_20170214042622_99132.jpg",
+            "alternate_text": "Sewa Kantor Gedung 88 Kota Kasablanka Tower A Jakarta Selatan Setiabudi Jakarta Interior",
+            "priority": 0
+          },
+          {
+            "url": "https://s3.amazonaws.com/public.urbanindo.com/test/office-leasing/building-photos/248_kota-kasablanka-88-kasablanka-tower-a_20170214042621_54857.jpg",
+            "alternate_text": "Sewa Kantor Gedung 88 Kota Kasablanka Tower A Jakarta Selatan Setiabudi Jakarta Interior",
+            "priority": 0
+          },
+          {
+            "url": "https://s3.amazonaws.com/public.urbanindo.com/test/office-leasing/building-photos/248_kota-kasablanka-88-kasablanka-tower-a_20170214042620_87185.jpg",
+            "alternate_text": "Sewa Kantor Gedung 88 Kota Kasablanka Tower A Jakarta Selatan Setiabudi Jakarta Interior",
+            "priority": 0
+          },
+          {
+            "url": "https://s3.amazonaws.com/public.urbanindo.com/test/office-leasing/building-photos/248_kota-kasablanka-88-kasablanka-tower-a_20170214042619_49347.jpg",
+            "alternate_text": "Sewa Kantor Gedung 88 Kota Kasablanka Tower A Jakarta Selatan Setiabudi Jakarta Interior",
+            "priority": 0
+          },
+          {
+            "url": "https://s3.amazonaws.com/public.urbanindo.com/test/office-leasing/building-photos/248_kota-kasablanka-88-kasablanka-tower-a_20170214042618_46442.jpg",
+            "alternate_text": "Sewa Kantor Gedung 88 Kota Kasablanka Tower A Jakarta Selatan Setiabudi Jakarta Interior",
+            "priority": 0
+          }
+        ],
+        "images_exterior": [
+          {
+            "url": "building/l5gbrignxvfxcntdledk",
+            "alternate_text": "Complex Exterior",
+            "priority": 1
+          },
+          {
+            "url": "building/z8kdrryb7rsys63dsia9",
+            "alternate_text": "Complex Exterior",
+            "priority": 2
+          }
+        ],
+        "images_floorplan": [
+          {
+            "url": "office/88_Kota_Kasablanka_Tower_A_Floor_Plan_17th.jpg",
+            "alternate_text": "17th.jpg",
+            "priority": 0
+          },
+          {
+            "url": "office/88_Kota_Kasablanka_Tower_A_Floor_Plan_26.jpg",
+            "alternate_text": "26.jpg",
+            "priority": 1
+          },
+          {
+            "url": "office/88_Kota_Kasablanka_Tower_A_Floor_Plan_28th.jpg",
+            "alternate_text": "28th.jpg",
+            "priority": 2
+          }
+        ],
+        "images_unit": null
+      },
+      "office_types": [],
+      "score": 101.06,
+      "total_deal": 0,
+      "total_unit": 6,
+      "sell_price": 0,
+      "monthly_rent_price": 0,
+      "occupancy_rate": 98,
+      "hide_price": false,
+      "fee": {
+        "full_rent": 0,
+        "full_sell": 0
+      },
+      "commission": {
+        "rent": 0,
+        "sell": 0
+      },
+      "internet": null,
+      "facilities": {
+        "main_facilities": {
+          "ATM": true,
+          "Bank": true,
+          "Foodcourt": true,
+          "Minimarket": true,
+          "Restaurant": true
+        },
+        "other_facilities": null
+      },
+      "lift": [
+        {
+          "name": "Low Zone",
+          "serving": "GF, 2 - 6",
+          "count": 2
+        },
+        {
+          "name": "Mid Zone",
+          "serving": "GF, 7 - 22",
+          "count": 4
+        },
+        {
+          "name": "High Zone",
+          "serving": "GF, 23 - 39",
+          "count": 5
+        },
+        {
+          "name": "Service Lift",
+          "serving": "Serving All Floors",
+          "count": 1
+        }
+      ],
+      "promo": "",
+      "office_hours": {
+        "available_24h": false,
+        "weekday": {
+          "opening_hour": "07:00:00",
+          "closing_hour": "19:00:00",
+          "is_open": true
+        },
+        "saturday": {
+          "opening_hour": "07:00:00",
+          "closing_hour": "13:00:00",
+          "is_open": true
+        },
+        "sunday": {
+          "opening_hour": "",
+          "closing_hour": "",
+          "is_open": false
+        }
+      },
+      "toilet": {
+        "male_urinal": 3,
+        "male_cubicle": 3,
+        "female_cubicle": 3,
+        "executive_toilet": 1
+      },
+      "electricty": {
+        "special_request": "",
+        "options": {
+          "office_hour_charge": {
+            "ac": {
+              "type": "",
+              "price": 0,
+              "options": ""
+            },
+            "lighting": {
+              "type": "",
+              "price": 0,
+              "options": ""
+            }
+          },
+          "overtime_charge": {
+            "ac": null,
+            "lighting": null,
+            "public_area": null
+          }
+        }
+      },
+      "commercial_terms": {
+        "payment_term": "Quarterly",
+        "min_lease_term": 3,
+        "deposit": 3,
+        "service_charge": 44500,
+        "sinking_fund": 0,
+        "phone_installation": 0,
+        "phone_deposit": 3000000,
+        "phone_international_deposit": 0,
+        "phone_provider": ""
+      },
+      "parking_terms": [
+        {
+          "type": "Reserved Basement",
+          "term": "Annually",
+          "price": 12000000,
+          "capacity": 1
+        },
+        {
+          "type": "Unreserved Basement",
+          "term": "Annually",
+          "price": 6900000,
+          "capacity": 1
+        },
+        {
+          "type": "Motorcycle",
+          "term": "Bi Monthly",
+          "price": 200000,
+          "capacity": 1
+        }
+      ],
+      "power_line": {
+        "primary": 3000,
+        "backup": 100
+      },
+      "fire_safety": {
+        "sprinkler": true,
+        "heat_detector": true,
+        "smoke_detector": true
+      },
+      "complex": {
+        "id": "5d36aaa0483ac030cc7db8b5",
+        "name": "Kota Kasablanka",
+        "address": {
+          "number": "",
+          "block": "",
+          "sector": "",
+          "street": "",
+          "subdistrict": "",
+          "district": "",
+          "city": "",
+          "regency": "",
+          "province": "",
+          "country": "",
+          "zip_code": ""
+        }
+      },
+      "suggest_area": [
+        "Jakarta Selatan",
+        "Setiabudi",
+        "Setia Budi",
+        "Menteng Atas"
+      ],
+      "suggest_name": "88 Kota Kasablanka Tower A",
+      "suggest_poi": [
+        "Kota Kasablanka",
+        "Epicentrum Walk Rasuna"
+      ],
+      "aggregation": {
+        "address": {
+          "number": "",
+          "block": "",
+          "sector": "",
+          "street": "Jl. Casablanca Raya No. 88",
+          "subdistrict": "",
+          "district": "Setiabudi",
+          "city": "Jakarta Selatan",
+          "regency": "",
+          "province": "Jakarta",
+          "country": "Indonesia",
+          "zip_code": "12960"
+        },
+        "location": {
+          "lat": -6.2229518,
+          "lon": 106.84252590000006
+        },
+        "price": {
+          "base_rent": 200000,
+          "sell_price": 0,
+          "service_charge": 50000,
+          "payment_term": "",
+          "web_price": 0,
+          "max_occupant": 0
+        },
+        "area": [
+          "Jakarta Selatan",
+          "Setiabudi",
+          "Setia Budi",
+          "Menteng Atas"
+        ],
+        "nearby": [
+          {
+            "name": "Kota Kasablanka",
+            "type": "mall",
+            "poi-category": "",
+            "location": {
+              "type": "Point",
+              "coordinates": [
+                106.842507,
+                -6.223105
+              ]
+            },
+            "distance": 17.161076534615535
+          },
+          {
+            "name": "Epicentrum Walk Rasuna",
+            "type": "mall",
+            "poi-category": "",
+            "location": {
+              "type": "Point",
+              "coordinates": [
+                106.835759,
+                -6.218178
+              ]
+            },
+            "distance": 918.2672222549572
+          }
+        ]
+      },
+      "category": "Office"
+    }
+  ]
+}

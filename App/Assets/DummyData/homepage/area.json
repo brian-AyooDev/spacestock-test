@@ -1,0 +1,173 @@
+{
+  "paging": {
+    "total_data": 5,
+    "total_page": 1
+  },
+  "data": [
+    {
+      "_id": null,
+      "id": "5d2f2f7a96736318ee428562",
+      "name": "Jakarta Selatan",
+      "area_description": [
+        {
+          "language": "id",
+          "description": "\u003cp\u003eJakarta Selatan merupakan salah satu kawasan paling bergengsi yang selalu mengalami perkembangan di Jakarta. Kota ini juga dikenal memiliki populasi terpadat ketiga setelah Jakarta Barat dan Jakarta Timur dengan luas wilayah 142,27 kilometer persegi. Lokasi dari pusat pemerintahannya berada di Kebayoran Baru.\u003c/p\u003e"
+        }
+      ],
+      "subdistrict": "",
+      "district": "",
+      "city": "Jakarta Selatan",
+      "regency": "",
+      "country": "Indonesia",
+      "coordinate": {
+        "type": "",
+        "coordinates": null
+      },
+      "zip_code": null,
+      "is_administrative_area": true,
+      "complex_recommendation": null,
+      "pin_as_explore": true,
+      "pin_as_popular_commercial": false,
+      "pin_as_popular_residential": false,
+      "banner": "Periurus%20Memoria/area/banner/jakarta_selatan.png",
+      "thumbnail": "Periurus%20Memoria/area/thumbnail/jakarta_selatan.png",
+      "create_at": 0,
+      "create_by_uid": "",
+      "last_update_by_uid": "",
+      "last_update_at": 0,
+      "status": 0
+    },
+    {
+      "_id": null,
+      "id": "5d2f2f9396736318ee4285ba",
+      "name": "Jakarta Barat",
+      "area_description": [
+        {
+          "language": "id",
+          "description": "\u003cp\u003eJakarta Barat merupakan salah satu kawasan yang menjadi pusat bisnis bagi kawasan Jakarta dan sekitarnya. Dukungan fasilitas publik mulai dari Sekolah, Rumah Sakit, Pusat Perbelanjaan ternama memberikan kesan elite kepada Jakarta Barat. Kota ini juga dikenal memiliki populasi terpadat dengan luas wilayah 129,5 kilometer persegi. Lokasi dari pusat pemerintahnnya berada di Kembangan.\u003c/p\u003e"
+        }
+      ],
+      "subdistrict": "",
+      "district": "",
+      "city": "Jakarta Barat",
+      "regency": "",
+      "country": "Indonesia",
+      "coordinate": {
+        "type": "",
+        "coordinates": null
+      },
+      "zip_code": null,
+      "is_administrative_area": true,
+      "complex_recommendation": null,
+      "pin_as_explore": true,
+      "pin_as_popular_commercial": false,
+      "pin_as_popular_residential": false,
+      "banner": "Periurus%20Memoria/area/banner/jakarta_barat.png",
+      "thumbnail": "Periurus%20Memoria/area/thumbnail/jakarta_barat.png",
+      "create_at": 0,
+      "create_by_uid": "",
+      "last_update_by_uid": "",
+      "last_update_at": 0,
+      "status": 0
+    },
+    {
+      "_id": null,
+      "id": "5d2f2f1396736318ee428387",
+      "name": "Jakarta Utara",
+      "area_description": [
+        {
+          "language": "id",
+          "description": "\u003cp\u003eJakarta Utara adalah kota administrasi di bagian utara Daerah Khusus Ibukota Jakarta merupakan kontributor terbesar di sektor industri pengolahan, disusul sektor perdagangan dan restoran. Potensi ekonomi Jakarta Utara masih terus berkembang dengan adanya pelabuhan yang menjadi simpul utama aktivitas ekspor impor semua komoditas. Kota ini juga dikenal memiliki luas wilayah 146,7 kilometer persegi. Lokasi dari pusat pemerintahannya berada di Koja.\u003c/p\u003e"
+        }
+      ],
+      "subdistrict": "",
+      "district": "",
+      "city": "Jakarta Utara",
+      "regency": "",
+      "country": "Indonesia",
+      "coordinate": {
+        "type": "",
+        "coordinates": null
+      },
+      "zip_code": null,
+      "is_administrative_area": true,
+      "complex_recommendation": null,
+      "pin_as_explore": true,
+      "pin_as_popular_commercial": false,
+      "pin_as_popular_residential": false,
+      "banner": "Periurus%20Memoria/area/banner/jakarta_utara.png",
+      "thumbnail": "Periurus%20Memoria/area/thumbnail/jakarta_utara.png",
+      "create_at": 0,
+      "create_by_uid": "",
+      "last_update_by_uid": "",
+      "last_update_at": 0,
+      "status": 0
+    },
+    {
+      "_id": null,
+      "id": "5d2f2ff096736318ee428747",
+      "name": "Jakarta Pusat",
+      "area_description": [
+        {
+          "language": "id",
+          "description": "\u003cp\u003eJakarta Pusat adalah kota administrasi di pusat Daerah Khusus Ibukota. Sebagai jantung ibukota negara, Jakarta Pusat dipenuhi banyak ragam perkantoran. Mulai dari kantor pemerintahan, kantor kedutaan asing hingga bisnis.Jakarta Pusat memiliki luas wilayah 48,13 kilometer persegi, walau begitu tingkat kepadatan penduduknya menjadi yang tertinggi di provinsi DKI Jakarta. Lokasi dari pusat pemerintahannya berada di Menteng.\u003c/p\u003e"
+        }
+      ],
+      "subdistrict": "",
+      "district": "",
+      "city": "Jakarta Pusat",
+      "regency": "",
+      "country": "Indonesia",
+      "coordinate": {
+        "type": "",
+        "coordinates": null
+      },
+      "zip_code": null,
+      "is_administrative_area": true,
+      "complex_recommendation": null,
+      "pin_as_explore": true,
+      "pin_as_popular_commercial": false,
+      "pin_as_popular_residential": false,
+      "banner": "Periurus%20Memoria/area/banner/jakarta_pusat.png",
+      "thumbnail": "Periurus%20Memoria/area/thumbnail/jakarta_pusat.png",
+      "create_at": 0,
+      "create_by_uid": "",
+      "last_update_by_uid": "",
+      "last_update_at": 0,
+      "status": 0
+    },
+    {
+      "_id": null,
+      "id": "5d2f2fa796736318ee42866b",
+      "name": "Jakarta Timur",
+      "area_description": [
+        {
+          "language": "id",
+          "description": "\u003cp\u003eJakarta Timur adalah kota administrasi di timur Daerah Khusus Ibukota. Jakarta Timur menjadi daerah yang tidak bisa dianggap remeh dengan banyaknya infrastruktur yang terus dibangun seperti Tol Becakayu dan juga proyek LRT. Pengembang - pengembang properti besar pun tidak mau kalah untuk membangun proyek proyek besar di Jakarta Timur, membuat daerah ini semakin naik pangsa pasarnya. Jakarta Timur memiliki luas wilayah 188 kilometer persegi. Lokasi dari pusat pemerintahannya berada di Menteng.\u003c/p\u003e"
+        }
+      ],
+      "subdistrict": "",
+      "district": "",
+      "city": "Jakarta Timur",
+      "regency": "",
+      "country": "Indonesia",
+      "coordinate": {
+        "type": "",
+        "coordinates": null
+      },
+      "zip_code": null,
+      "is_administrative_area": true,
+      "complex_recommendation": null,
+      "pin_as_explore": true,
+      "pin_as_popular_commercial": false,
+      "pin_as_popular_residential": false,
+      "banner": "Periurus%20Memoria/area/banner/jakarta_timur.png",
+      "thumbnail": "Periurus%20Memoria/area/thumbnail/jakarta_timur.png",
+      "create_at": 0,
+      "create_by_uid": "",
+      "last_update_by_uid": "",
+      "last_update_at": 0,
+      "status": 0
+    }
+  ]
+}
