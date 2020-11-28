@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
 import {
+  Dimensions,
   Platform,
   StyleSheet,
-  View
+  View,
 } from 'react-native';
-
 import {
   Body,
   Container,
@@ -16,11 +16,11 @@ import {
   Right,
   Left,
 } from 'native-base';
-
+import { SafeAreaView } from 'react-navigation';
 import { propTypes } from 'prop-types';
-
 import * as Styles from 'App/Styles';
 
+const { width, height } = Dimensions.get('window');
 let headerButtonFlex = 0.15;
 
 export default class AppFrame extends Component {
@@ -30,7 +30,7 @@ export default class AppFrame extends Component {
     super();
 
     this.state = {
-      headerColor: Styles.Colors.primary,
+      headerColor: Styles.Colors.white,
       headerTitleFlex: 1
     }
   }
@@ -96,10 +96,19 @@ export default class AppFrame extends Component {
 
   render() {
     return (
-      <Container>
-        {this.renderHeader()}
+      <SafeAreaView
+        style={[
+          Styles.Helpers.fill,
+          {
+            backgroundColor: Styles.Colors.white,
+            width,
+          }
+        ]}
+        forceInset={{ top: 'never' }}
+      >
+        { this.renderHeader()}
         {this.props.renderContent}
-      </Container>
+      </SafeAreaView>
     );
   }
 }
