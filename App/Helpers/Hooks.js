@@ -13,6 +13,11 @@ export const isJSDebugEnable = (typeof atob !== 'undefined');
 export const REGULER_USER = 80;
 export const MAX_NOTIF_COUNT = 99;
 
+export const RENT_TYPE = 'rent';
+export const BUY_TYPE = 'buy';
+export const OFFICE = 'tower';
+export const APARTMENT = 'complex';
+
 var locale = require('moment/locale/id');
 moment.locale('id', locale);
 
@@ -400,7 +405,12 @@ export function getWaitingTime() {
  * @param {Int} dec_digit - amount of decimal digit
  * @return {String} - Result of formatted currency
  */
-export function formatCurrency(price, currency = 'IDR', dec_digit = 0) {
+export function formatCurrency(
+  price,
+  currency = 'IDR',
+  dec_digit = 0,
+  translateToWords = false,
+) {
   let dec_sep;
   let th_sep;
   let currency_symbol;
@@ -431,7 +441,33 @@ export function formatCurrency(price, currency = 'IDR', dec_digit = 0) {
     i = String(parseInt(n = Math.abs(Number(n) || 0).toFixed(c))),
     j = (j = i.length) > 3 ? j % 3 : 0;
 
-  return currency_symbol + s + (j ? i.substr(0, j) + t : "") + i.substr(j).replace(/(\d{3})(?=\d)/g, "$1" + t) + (c ? d + Math.abs(n - parseInt(i)).toFixed(c).slice(2) : "");
+  let res = currency_symbol + s + (j ? i.substr(0, j) + t : "") + i.substr(j).replace(/(\d{3})(?=\d)/g, "$1" + t) + (c ? d + Math.abs(n - parseInt(i)).toFixed(c).slice(2) : "");
+
+  if (!translateToWords) {
+    return res;
+  }
+  else {
+    return this.translatePriceToWordsIDR(res.toString());
+  }
+}
+
+export function translatePriceToWordsIDR(price) {
+  let text = ['', '', 'Ribu', 'Juta', 'Milyar', 'Trilyun'];
+
+  price = price.toString();
+  price = price.split('.');
+
+  let calcHundred = Math.round(price[1] / 100);
+  calcHundred == 0 ?
+    calcHundred = '' :
+    calcHundred = ',' + calcHundred.toString();
+
+  let newPrice = price[0] +
+    (price.length > 1 ? calcHundred : "") +
+    " " + text[price.length]
+    ;
+
+  return newPrice;
 }
 
 export function formValidation(formData, requiredData) {
@@ -767,5 +803,32 @@ export function alertHandler(
       { cancelable: false }
     );
   }, this.getWaitingTime());
+}
 
+/**
+ * Sort JSON Array by property
+ * @param {Array} objArray - JSON Array object
+ * @param {String} prop - prop for JSON sorted by
+ * @param {String} direction - direction for sorted array
+ * @return {Array} - final JSON Array object sorted by property
+ */
+export function JSONsortByProperty(objArray, prop, direction) {
+  if (arguments.length < 2) throw new Error("ARRAY, AND OBJECT PROPERTY MINIMUM ARGUMENTS, OPTIONAL DIRECTION");
+  if (!Array.isArray(objArray)) throw new Error("FIRST ARGUMENT NOT AN ARRAY");
+  const clone = objArray.slice(0);
+  const direct = arguments.length > 2 ? arguments[2] : 1; //Default to ascending
+  const propPath = (prop.constructor === Array) ? prop : prop.split(".");
+  clone.sort(function (a, b) {
+    for (let p in propPath) {
+      if (a[propPath[p]] && b[propPath[p]]) {
+        a = a[propPath[p]];
+        b = b[propPath[p]];
+      }
+    }
+    // convert numeric strings to integers
+    a = a.toString().match(/^\d+$/) ? +a : a;
+    b = b.toString().match(/^\d+$/) ? +b : b;
+    return ((a < b) ? -1 * direct : ((a > b) ? 1 * direct : 0));
+  });
+  return clone;
 }
