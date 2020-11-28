@@ -1,8 +1,15 @@
 export const encoding = 'id'; // Language Encoding
 export const lang = {
   title: {
-    home: 'Rumah',
+    alert_title_default: "Pesan dari Spacestock",
+    alert_title_error: "Ouch...",
+    alert_title_info: "Info",
     counter: 'Penghitung',
-    splash: 'Percikan'
+    home: 'Rumah',
+    splash: 'Percikan',
+  },
+  label: {
+    tower: 'Kantor',
+    complex: 'Apartemen',
   }
 };
