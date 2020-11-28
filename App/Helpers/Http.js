@@ -8,6 +8,9 @@ export const ALPHA: string = 'ALPHA';
 export const INTERNAL: string = 'INTERNAL';
 export const LOCAL: string = 'LOCAL';
 
+export const TOWER_IMAGE_URL: string = 'https://res.cloudinary.com/dpqdlkgsz/image/private/t_anteoculatia_reducto/';
+export const COMPLEX_IMAGE_URL: string = 'https://res.cloudinary.com/dpqdlkgsz/image/upload/t_alohomora/v1/';
+
 // Change this Value to switch Environment
 export const MODE = PRODUCTION;
 
