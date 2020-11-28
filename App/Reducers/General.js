@@ -18,3 +18,21 @@ export const refresh_app = createReducer(true, {
     return action.refresh_app;
   }
 });
+
+/**
+ * Get Search Config
+ */
+export const searchConfig = createReducer({}, {
+  [TYPES.SEARCH_CONFIG](state, action) {
+    return action.searchConfig;
+  }
+});
+
+/**
+ * Get Unit Data
+ */
+export const unitData = createReducer({}, {
+  [TYPES.UNIT_DATA](state, action) {
+    return action.unitData;
+  }
+});

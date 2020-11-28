@@ -27,3 +27,35 @@ export function refreshApp() {
     });
   }
 }
+
+/**
+ * Set REDUX SearchConfig
+ * config: payload Object
+ */
+export function setSearchConfig(config: Object) {
+  return (dispatch, getState) => {
+    let prevConfig = getState().searchConfig;
+    let currentConfig = Object.assign(prevConfig, config);
+
+    return dispatch({
+      type: TYPES.SEARCH_CONFIG,
+      searchConfig: currentConfig
+    });
+  }
+}
+
+/**
+ * Set REDUX Unit Data
+ * data: payload Object
+ */
+export function setUnitData(data: Object) {
+  return (dispatch, getState) => {
+    let prevData = getState().unitData;
+    let currentData = Object.assign(prevData, data);
+
+    return dispatch({
+      type: TYPES.UNIT_DATA,
+      unitData: currentData
+    });
+  }
+}
